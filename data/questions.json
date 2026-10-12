@@ -1,0 +1,2384 @@
+[
+    {
+        "id": 1,
+        "question": "The Roman equivalent of Zeus.",
+        "answer": "Jupiter",
+        "aliases": [
+            "Jove"
+        ],
+        "category": "Mythology",
+        "difficulty": 2
+    },
+    {
+        "id": 2,
+        "question": "This composer wrote La Bohème.",
+        "answer": "Puccini",
+        "aliases": [
+            "Giacomo Puccini"
+        ],
+        "category": "Opera",
+        "difficulty": 3
+    },
+    {
+        "id": 3,
+        "question": "This Shakespeare villain manipulates Othello into jealousy.",
+        "answer": "Iago",
+        "aliases": [],
+        "category": "Shakespeare",
+        "difficulty": 3
+    },
+    {
+        "id": 4,
+        "question": "This amendment gave women the right to vote in the United States.",
+        "answer": "19th Amendment",
+        "aliases": [
+            "Nineteenth Amendment",
+            "19th"
+        ],
+        "category": "Civics",
+        "difficulty": 2
+    },
+    {
+        "id": 5,
+        "question": "This river runs through Paris.",
+        "answer": "Seine",
+        "aliases": [
+            "The Seine",
+            "Seine River"
+        ],
+        "category": "Geography",
+        "difficulty": 2
+    },
+    {
+        "id": 6,
+        "question": "This author created Elizabeth Bennet and Mr. Darcy.",
+        "answer": "Jane Austen",
+        "aliases": [
+            "Austen"
+        ],
+        "category": "Literature",
+        "difficulty": 2
+    },
+    {
+        "id": 7,
+        "question": "This biblical figure was swallowed by a great fish.",
+        "answer": "Jonah",
+        "aliases": [],
+        "category": "Bible",
+        "difficulty": 2
+    },
+    {
+        "id": 8,
+        "question": "The chemical symbol Ag stands for this element.",
+        "answer": "Silver",
+        "aliases": [],
+        "category": "Science",
+        "difficulty": 2
+    },
+    {
+        "id": 9,
+        "question": "This treaty ended the American Revolutionary War.",
+        "answer": "Treaty of Paris",
+        "aliases": [
+            "Treaty of Paris 1783",
+            "Paris"
+        ],
+        "category": "History",
+        "difficulty": 3
+    },
+    {
+        "id": 10,
+        "question": "This composer wrote The Magic Flute.",
+        "answer": "Mozart",
+        "aliases": [
+            "Wolfgang Amadeus Mozart",
+            "W. A. Mozart"
+        ],
+        "category": "Classical Music",
+        "difficulty": 2
+    },
+    {
+        "id": 11,
+        "question": "This composer wrote Carmen.",
+        "answer": "Bizet",
+        "aliases": [
+            "Georges Bizet"
+        ],
+        "category": "Opera",
+        "difficulty": 3
+    },
+    {
+        "id": 12,
+        "question": "This composer wrote Aida and Rigoletto.",
+        "answer": "Verdi",
+        "aliases": [
+            "Giuseppe Verdi"
+        ],
+        "category": "Opera",
+        "difficulty": 3
+    },
+    {
+        "id": 13,
+        "question": "This Shakespeare play features Shylock and Portia.",
+        "answer": "The Merchant of Venice",
+        "aliases": [
+            "Merchant of Venice"
+        ],
+        "category": "Shakespeare",
+        "difficulty": 3
+    },
+    {
+        "id": 14,
+        "question": "This Shakespeare character has daughters named Goneril, Regan, and Cordelia.",
+        "answer": "King Lear",
+        "aliases": [
+            "Lear"
+        ],
+        "category": "Shakespeare",
+        "difficulty": 3
+    },
+    {
+        "id": 15,
+        "question": "This amendment abolished slavery in the United States.",
+        "answer": "13th Amendment",
+        "aliases": [
+            "Thirteenth Amendment",
+            "13th"
+        ],
+        "category": "Civics",
+        "difficulty": 2
+    },
+    {
+        "id": 16,
+        "question": "This amendment set the voting age at 18.",
+        "answer": "26th Amendment",
+        "aliases": [
+            "Twenty-sixth Amendment",
+            "26th"
+        ],
+        "category": "Civics",
+        "difficulty": 3
+    },
+    {
+        "id": 17,
+        "question": "This river runs through London.",
+        "answer": "Thames",
+        "aliases": [
+            "The Thames",
+            "River Thames"
+        ],
+        "category": "Geography",
+        "difficulty": 2
+    },
+    {
+        "id": 18,
+        "question": "This mountain range separates France and Spain.",
+        "answer": "Pyrenees",
+        "aliases": [
+            "The Pyrenees"
+        ],
+        "category": "Geography",
+        "difficulty": 3
+    },
+    {
+        "id": 19,
+        "question": "This author wrote Moby-Dick.",
+        "answer": "Herman Melville",
+        "aliases": [
+            "Melville"
+        ],
+        "category": "Literature",
+        "difficulty": 2
+    },
+    {
+        "id": 20,
+        "question": "This author wrote The Scarlet Letter.",
+        "answer": "Nathaniel Hawthorne",
+        "aliases": [
+            "Hawthorne"
+        ],
+        "category": "Literature",
+        "difficulty": 3
+    },
+    {
+        "id": 21,
+        "question": "This biblical king was known for his wisdom.",
+        "answer": "Solomon",
+        "aliases": [
+            "King Solomon"
+        ],
+        "category": "Bible",
+        "difficulty": 2
+    },
+    {
+        "id": 22,
+        "question": "This biblical figure interpreted dreams in Egypt and owned a coat of many colors.",
+        "answer": "Joseph",
+        "aliases": [],
+        "category": "Bible",
+        "difficulty": 2
+    },
+    {
+        "id": 23,
+        "question": "The chemical symbol Hg stands for this element.",
+        "answer": "Mercury",
+        "aliases": [],
+        "category": "Science",
+        "difficulty": 3
+    },
+    {
+        "id": 24,
+        "question": "The chemical symbol Pb stands for this element.",
+        "answer": "Lead",
+        "aliases": [],
+        "category": "Science",
+        "difficulty": 3
+    },
+    {
+        "id": 25,
+        "question": "This Roman god is the equivalent of the Greek god Ares.",
+        "answer": "Mars",
+        "aliases": [],
+        "category": "Mythology",
+        "difficulty": 2
+    },
+    {
+        "id": 26,
+        "question": "This Roman goddess is the equivalent of the Greek goddess Aphrodite.",
+        "answer": "Venus",
+        "aliases": [],
+        "category": "Mythology",
+        "difficulty": 2
+    },
+    {
+        "id": 27,
+        "question": "This treaty ended World War I.",
+        "answer": "Treaty of Versailles",
+        "aliases": [
+            "Versailles"
+        ],
+        "category": "History",
+        "difficulty": 2
+    },
+    {
+        "id": 28,
+        "question": "This president made the Louisiana Purchase.",
+        "answer": "Thomas Jefferson",
+        "aliases": [
+            "Jefferson"
+        ],
+        "category": "History",
+        "difficulty": 2
+    },
+    {
+        "id": 29,
+        "question": "This composer wrote The Four Seasons.",
+        "answer": "Vivaldi",
+        "aliases": [
+            "Antonio Vivaldi"
+        ],
+        "category": "Classical Music",
+        "difficulty": 2
+    },
+    {
+        "id": 30,
+        "question": "This composer wrote The Nutcracker and Swan Lake.",
+        "answer": "Tchaikovsky",
+        "aliases": [
+            "Pyotr Ilyich Tchaikovsky",
+            "Peter Tchaikovsky"
+        ],
+        "category": "Classical Music",
+        "difficulty": 2
+    },
+    {
+        "id": 31,
+        "question": "This Greek goddess of wisdom is the Roman Minerva.",
+        "answer": "Athena",
+        "aliases": [
+            "Athene"
+        ],
+        "category": "Mythology",
+        "difficulty": 2
+    },
+    {
+        "id": 32,
+        "question": "This Greek messenger god is the Roman Mercury.",
+        "answer": "Hermes",
+        "aliases": [],
+        "category": "Mythology",
+        "difficulty": 2
+    },
+    {
+        "id": 33,
+        "question": "This Greek god of the sea is the Roman Neptune.",
+        "answer": "Poseidon",
+        "aliases": [],
+        "category": "Mythology",
+        "difficulty": 2
+    },
+    {
+        "id": 34,
+        "question": "This Titan is often shown holding up the heavens.",
+        "answer": "Atlas",
+        "aliases": [],
+        "category": "Mythology",
+        "difficulty": 2
+    },
+    {
+        "id": 35,
+        "question": "This Shakespeare play features the characters Puck, Oberon, and Titania.",
+        "answer": "A Midsummer Night's Dream",
+        "aliases": [
+            "Midsummer Night's Dream"
+        ],
+        "category": "Shakespeare",
+        "difficulty": 3
+    },
+    {
+        "id": 36,
+        "question": "This Shakespeare play features Brutus and Cassius.",
+        "answer": "Julius Caesar",
+        "aliases": [],
+        "category": "Shakespeare",
+        "difficulty": 2
+    },
+    {
+        "id": 37,
+        "question": "This Shakespeare character says, 'To be, or not to be.'",
+        "answer": "Hamlet",
+        "aliases": [
+            "Prince Hamlet"
+        ],
+        "category": "Shakespeare",
+        "difficulty": 2
+    },
+    {
+        "id": 38,
+        "question": "This Shakespeare play is set largely in Verona and features Mercutio.",
+        "answer": "Romeo and Juliet",
+        "aliases": [
+            "Romeo & Juliet"
+        ],
+        "category": "Shakespeare",
+        "difficulty": 2
+    },
+    {
+        "id": 39,
+        "question": "This author wrote 1984 and Animal Farm.",
+        "answer": "George Orwell",
+        "aliases": [
+            "Orwell"
+        ],
+        "category": "Literature",
+        "difficulty": 2
+    },
+    {
+        "id": 40,
+        "question": "This author wrote Brave New World.",
+        "answer": "Aldous Huxley",
+        "aliases": [
+            "Huxley"
+        ],
+        "category": "Literature",
+        "difficulty": 3
+    },
+    {
+        "id": 41,
+        "question": "This author created Holden Caulfield.",
+        "answer": "J. D. Salinger",
+        "aliases": [
+            "Salinger",
+            "JD Salinger"
+        ],
+        "category": "Literature",
+        "difficulty": 3
+    },
+    {
+        "id": 42,
+        "question": "This author wrote The Grapes of Wrath.",
+        "answer": "John Steinbeck",
+        "aliases": [
+            "Steinbeck"
+        ],
+        "category": "Literature",
+        "difficulty": 2
+    },
+    {
+        "id": 43,
+        "question": "This author wrote The Old Man and the Sea.",
+        "answer": "Ernest Hemingway",
+        "aliases": [
+            "Hemingway"
+        ],
+        "category": "Literature",
+        "difficulty": 2
+    },
+    {
+        "id": 44,
+        "question": "This author wrote Crime and Punishment and The Brothers Karamazov.",
+        "answer": "Fyodor Dostoevsky",
+        "aliases": [
+            "Dostoevsky",
+            "Dostoyevsky"
+        ],
+        "category": "Literature",
+        "difficulty": 3
+    },
+    {
+        "id": 45,
+        "question": "This river runs through Rome.",
+        "answer": "Tiber",
+        "aliases": [
+            "The Tiber",
+            "Tiber River"
+        ],
+        "category": "Geography",
+        "difficulty": 3
+    },
+    {
+        "id": 46,
+        "question": "This river runs through Vienna, Budapest, and Bratislava.",
+        "answer": "Danube",
+        "aliases": [
+            "The Danube",
+            "Danube River"
+        ],
+        "category": "Geography",
+        "difficulty": 2
+    },
+    {
+        "id": 47,
+        "question": "This mountain range separates Europe and Asia in Russia.",
+        "answer": "Ural Mountains",
+        "aliases": [
+            "Urals",
+            "The Urals",
+            "Ural"
+        ],
+        "category": "Geography",
+        "difficulty": 3
+    },
+    {
+        "id": 48,
+        "question": "This mountain range runs along the western edge of South America.",
+        "answer": "Andes",
+        "aliases": [
+            "The Andes",
+            "Andes Mountains"
+        ],
+        "category": "Geography",
+        "difficulty": 2
+    },
+    {
+        "id": 49,
+        "question": "This strait separates Alaska from Russia.",
+        "answer": "Bering Strait",
+        "aliases": [
+            "The Bering Strait",
+            "Bering"
+        ],
+        "category": "Geography",
+        "difficulty": 2
+    },
+    {
+        "id": 50,
+        "question": "Ceylon is the former name of this island nation.",
+        "answer": "Sri Lanka",
+        "aliases": [],
+        "category": "Geography",
+        "difficulty": 3
+    },
+    {
+        "id": 51,
+        "question": "This amendment ended Prohibition.",
+        "answer": "21st Amendment",
+        "aliases": [
+            "Twenty-first Amendment",
+            "21st"
+        ],
+        "category": "Civics",
+        "difficulty": 3
+    },
+    {
+        "id": 52,
+        "question": "This amendment established presidential term limits.",
+        "answer": "22nd Amendment",
+        "aliases": [
+            "Twenty-second Amendment",
+            "22nd"
+        ],
+        "category": "Civics",
+        "difficulty": 3
+    },
+    {
+        "id": 53,
+        "question": "This amendment deals with presidential succession and disability.",
+        "answer": "25th Amendment",
+        "aliases": [
+            "Twenty-fifth Amendment",
+            "25th"
+        ],
+        "category": "Civics",
+        "difficulty": 3
+    },
+    {
+        "id": 54,
+        "question": "This Supreme Court case established judicial review.",
+        "answer": "Marbury v. Madison",
+        "aliases": [
+            "Marbury",
+            "Marbury vs Madison"
+        ],
+        "category": "Civics",
+        "difficulty": 3
+    },
+    {
+        "id": 55,
+        "question": "This Supreme Court case declared school segregation unconstitutional.",
+        "answer": "Brown v. Board of Education",
+        "aliases": [
+            "Brown v Board",
+            "Brown vs Board of Education",
+            "Brown"
+        ],
+        "category": "Civics",
+        "difficulty": 2
+    },
+    {
+        "id": 56,
+        "question": "This president was in office during the Cuban Missile Crisis.",
+        "answer": "John F. Kennedy",
+        "aliases": [
+            "JFK",
+            "Kennedy",
+            "John Kennedy"
+        ],
+        "category": "History",
+        "difficulty": 2
+    },
+    {
+        "id": 57,
+        "question": "This president was in office when the Berlin Wall fell.",
+        "answer": "George H. W. Bush",
+        "aliases": [
+            "George Bush",
+            "George Bush Sr.",
+            "Bush"
+        ],
+        "category": "History",
+        "difficulty": 3
+    },
+    {
+        "id": 58,
+        "question": "This American president led the country during World War I.",
+        "answer": "Woodrow Wilson",
+        "aliases": [
+            "Wilson"
+        ],
+        "category": "History",
+        "difficulty": 2
+    },
+    {
+        "id": 59,
+        "question": "This man is credited with discovering penicillin.",
+        "answer": "Alexander Fleming",
+        "aliases": [
+            "Fleming"
+        ],
+        "category": "Science",
+        "difficulty": 3
+    },
+    {
+        "id": 60,
+        "question": "This scientist developed the theory of relativity.",
+        "answer": "Albert Einstein",
+        "aliases": [
+            "Einstein"
+        ],
+        "category": "Science",
+        "difficulty": 2
+    },
+    {
+        "id": 61,
+        "question": "This scientist proposed the theory of evolution by natural selection.",
+        "answer": "Charles Darwin",
+        "aliases": [
+            "Darwin"
+        ],
+        "category": "Science",
+        "difficulty": 2
+    },
+    {
+        "id": 62,
+        "question": "This scientist formulated the laws of motion and universal gravitation.",
+        "answer": "Isaac Newton",
+        "aliases": [
+            "Newton"
+        ],
+        "category": "Science",
+        "difficulty": 2
+    },
+    {
+        "id": 63,
+        "question": "The chemical symbol Au stands for this element.",
+        "answer": "Gold",
+        "aliases": [],
+        "category": "Science",
+        "difficulty": 2
+    },
+    {
+        "id": 64,
+        "question": "The chemical symbol Fe stands for this element.",
+        "answer": "Iron",
+        "aliases": [],
+        "category": "Science",
+        "difficulty": 2
+    },
+    {
+        "id": 65,
+        "question": "This biblical figure received the Ten Commandments.",
+        "answer": "Moses",
+        "aliases": [],
+        "category": "Bible",
+        "difficulty": 2
+    },
+    {
+        "id": 66,
+        "question": "This biblical figure survived a den of lions.",
+        "answer": "Daniel",
+        "aliases": [],
+        "category": "Bible",
+        "difficulty": 2
+    },
+    {
+        "id": 67,
+        "question": "This biblical figure was known for patience after suffering great losses.",
+        "answer": "Job",
+        "aliases": [],
+        "category": "Bible",
+        "difficulty": 3
+    },
+    {
+        "id": 68,
+        "question": "This apostle betrayed Jesus for thirty pieces of silver.",
+        "answer": "Judas Iscariot",
+        "aliases": [
+            "Judas"
+        ],
+        "category": "Bible",
+        "difficulty": 2
+    },
+    {
+        "id": 69,
+        "question": "This composer wrote Messiah.",
+        "answer": "Handel",
+        "aliases": [
+            "George Frideric Handel",
+            "George Frederick Handel"
+        ],
+        "category": "Classical Music",
+        "difficulty": 3
+    },
+    {
+        "id": 70,
+        "question": "This composer wrote The Blue Danube.",
+        "answer": "Johann Strauss II",
+        "aliases": [
+            "Strauss",
+            "Johann Strauss",
+            "Strauss II"
+        ],
+        "category": "Classical Music",
+        "difficulty": 3
+    },
+    {
+        "id": 71,
+        "question": "This composer wrote The Barber of Seville.",
+        "answer": "Rossini",
+        "aliases": [
+            "Gioachino Rossini"
+        ],
+        "category": "Opera",
+        "difficulty": 3
+    },
+    {
+        "id": 72,
+        "question": "This composer is associated with the Ring Cycle.",
+        "answer": "Wagner",
+        "aliases": [
+            "Richard Wagner"
+        ],
+        "category": "Opera",
+        "difficulty": 3
+    },
+    {
+        "id": 73,
+        "question": "This painter created Guernica.",
+        "answer": "Pablo Picasso",
+        "aliases": [
+            "Picasso"
+        ],
+        "category": "Art",
+        "difficulty": 3
+    },
+    {
+        "id": 74,
+        "question": "This painter created The Persistence of Memory.",
+        "answer": "Salvador Dalí",
+        "aliases": [
+            "Dali",
+            "Salvador Dali"
+        ],
+        "category": "Art",
+        "difficulty": 3
+    },
+    {
+        "id": 75,
+        "question": "This artist painted the Mona Lisa.",
+        "answer": "Leonardo da Vinci",
+        "aliases": [
+            "Da Vinci",
+            "Leonardo"
+        ],
+        "category": "Art",
+        "difficulty": 2
+    },
+    {
+        "id": 76,
+        "question": "This artist painted the ceiling of the Sistine Chapel.",
+        "answer": "Michelangelo",
+        "aliases": [
+            "Michelangelo Buonarroti"
+        ],
+        "category": "Art",
+        "difficulty": 2
+    },
+    {
+        "id": 77,
+        "question": "This philosopher wrote Leviathan.",
+        "answer": "Thomas Hobbes",
+        "aliases": [
+            "Hobbes"
+        ],
+        "category": "Philosophy",
+        "difficulty": 3
+    },
+    {
+        "id": 78,
+        "question": "This philosopher is associated with natural rights and the idea of life, liberty, and property.",
+        "answer": "John Locke",
+        "aliases": [
+            "Locke"
+        ],
+        "category": "Philosophy",
+        "difficulty": 3
+    },
+    {
+        "id": 79,
+        "question": "This philosopher wrote The Social Contract.",
+        "answer": "Jean-Jacques Rousseau",
+        "aliases": [
+            "Rousseau",
+            "Jean Jacques Rousseau"
+        ],
+        "category": "Philosophy",
+        "difficulty": 3
+    },
+    {
+        "id": 80,
+        "question": "This ancient Greek philosopher was the teacher of Aristotle.",
+        "answer": "Plato",
+        "aliases": [],
+        "category": "Philosophy",
+        "difficulty": 2
+    },
+    {
+        "id": 81,
+        "question": "This biblical figure built an ark before a great flood.",
+        "answer": "Noah",
+        "aliases": [],
+        "category": "Bible",
+        "difficulty": 2
+    },
+    {
+        "id": 82,
+        "question": "This biblical giant was defeated by David.",
+        "answer": "Goliath",
+        "aliases": [],
+        "category": "Bible",
+        "difficulty": 2
+    },
+    {
+        "id": 83,
+        "question": "This biblical woman is the mother of Jesus.",
+        "answer": "Mary",
+        "aliases": [
+            "Virgin Mary"
+        ],
+        "category": "Bible",
+        "difficulty": 2
+    },
+    {
+        "id": 84,
+        "question": "This biblical figure was the first man.",
+        "answer": "Adam",
+        "aliases": [],
+        "category": "Bible",
+        "difficulty": 1
+    },
+    {
+        "id": 85,
+        "question": "This biblical figure was the first woman.",
+        "answer": "Eve",
+        "aliases": [],
+        "category": "Bible",
+        "difficulty": 1
+    },
+    {
+        "id": 86,
+        "question": "This opera by Puccini features Cio-Cio-San.",
+        "answer": "Madama Butterfly",
+        "aliases": [
+            "Madame Butterfly"
+        ],
+        "category": "Opera",
+        "difficulty": 3
+    },
+    {
+        "id": 87,
+        "question": "This opera by Puccini features the singer Floria Tosca.",
+        "answer": "Tosca",
+        "aliases": [],
+        "category": "Opera",
+        "difficulty": 3
+    },
+    {
+        "id": 88,
+        "question": "This opera by Verdi features the Hebrew slaves' chorus.",
+        "answer": "Nabucco",
+        "aliases": [],
+        "category": "Opera",
+        "difficulty": 3
+    },
+    {
+        "id": 89,
+        "question": "This Mozart opera features the character Figaro.",
+        "answer": "The Marriage of Figaro",
+        "aliases": [
+            "Marriage of Figaro",
+            "Le nozze di Figaro"
+        ],
+        "category": "Opera",
+        "difficulty": 3
+    },
+    {
+        "id": 90,
+        "question": "This opera by Bizet features the toreador Escamillo.",
+        "answer": "Carmen",
+        "aliases": [],
+        "category": "Opera",
+        "difficulty": 3
+    },
+    {
+        "id": 91,
+        "question": "This composer became deaf later in life and wrote nine symphonies.",
+        "answer": "Beethoven",
+        "aliases": [
+            "Ludwig van Beethoven"
+        ],
+        "category": "Classical Music",
+        "difficulty": 2
+    },
+    {
+        "id": 92,
+        "question": "This composer wrote the Brandenburg Concertos.",
+        "answer": "Bach",
+        "aliases": [
+            "Johann Sebastian Bach",
+            "J. S. Bach"
+        ],
+        "category": "Classical Music",
+        "difficulty": 3
+    },
+    {
+        "id": 93,
+        "question": "This composer wrote Eine kleine Nachtmusik.",
+        "answer": "Mozart",
+        "aliases": [
+            "Wolfgang Amadeus Mozart",
+            "W. A. Mozart"
+        ],
+        "category": "Classical Music",
+        "difficulty": 2
+    },
+    {
+        "id": 94,
+        "question": "This composer wrote Clair de lune.",
+        "answer": "Debussy",
+        "aliases": [
+            "Claude Debussy"
+        ],
+        "category": "Classical Music",
+        "difficulty": 3
+    },
+    {
+        "id": 95,
+        "question": "This composer wrote Boléro.",
+        "answer": "Ravel",
+        "aliases": [
+            "Maurice Ravel",
+            "Bolero"
+        ],
+        "category": "Classical Music",
+        "difficulty": 3
+    },
+    {
+        "id": 96,
+        "question": "This philosopher was sentenced to death in Athens and drank hemlock.",
+        "answer": "Socrates",
+        "aliases": [],
+        "category": "Philosophy",
+        "difficulty": 2
+    },
+    {
+        "id": 97,
+        "question": "This philosopher was a student of Plato and tutor to Alexander the Great.",
+        "answer": "Aristotle",
+        "aliases": [],
+        "category": "Philosophy",
+        "difficulty": 2
+    },
+    {
+        "id": 98,
+        "question": "This philosopher wrote Critique of Pure Reason.",
+        "answer": "Immanuel Kant",
+        "aliases": [
+            "Kant"
+        ],
+        "category": "Philosophy",
+        "difficulty": 3
+    },
+    {
+        "id": 99,
+        "question": "This philosopher wrote Beyond Good and Evil and Thus Spoke Zarathustra.",
+        "answer": "Friedrich Nietzsche",
+        "aliases": [
+            "Nietzsche"
+        ],
+        "category": "Philosophy",
+        "difficulty": 3
+    },
+    {
+        "id": 100,
+        "question": "This philosopher said, 'I think, therefore I am.'",
+        "answer": "René Descartes",
+        "aliases": [
+            "Rene Descartes",
+            "Descartes"
+        ],
+        "category": "Philosophy",
+        "difficulty": 2
+    },
+    {
+        "id": 101,
+        "question": "This Dutch artist painted Starry Night.",
+        "answer": "Vincent van Gogh",
+        "aliases": [
+            "Van Gogh",
+            "Vincent Van Gogh"
+        ],
+        "category": "Art",
+        "difficulty": 2
+    },
+    {
+        "id": 102,
+        "question": "This Norwegian artist painted The Scream.",
+        "answer": "Edvard Munch",
+        "aliases": [
+            "Munch"
+        ],
+        "category": "Art",
+        "difficulty": 2
+    },
+    {
+        "id": 103,
+        "question": "This French artist painted Water Lilies.",
+        "answer": "Claude Monet",
+        "aliases": [
+            "Monet"
+        ],
+        "category": "Art",
+        "difficulty": 2
+    },
+    {
+        "id": 104,
+        "question": "This American artist painted Campbell's Soup Cans.",
+        "answer": "Andy Warhol",
+        "aliases": [
+            "Warhol"
+        ],
+        "category": "Art",
+        "difficulty": 2
+    },
+    {
+        "id": 105,
+        "question": "This Mexican artist is known for self-portraits and was married to Diego Rivera.",
+        "answer": "Frida Kahlo",
+        "aliases": [
+            "Kahlo"
+        ],
+        "category": "Art",
+        "difficulty": 2
+    },
+    {
+        "id": 106,
+        "question": "This Shakespeare play features the witches' line 'Double, double toil and trouble.'",
+        "answer": "Macbeth",
+        "aliases": [],
+        "category": "Shakespeare",
+        "difficulty": 2
+    },
+    {
+        "id": 107,
+        "question": "This Shakespeare play features Prospero, Miranda, and Caliban.",
+        "answer": "The Tempest",
+        "aliases": [
+            "Tempest"
+        ],
+        "category": "Shakespeare",
+        "difficulty": 3
+    },
+    {
+        "id": 108,
+        "question": "This Shakespeare comedy features twins Viola and Sebastian.",
+        "answer": "Twelfth Night",
+        "aliases": [],
+        "category": "Shakespeare",
+        "difficulty": 3
+    },
+    {
+        "id": 109,
+        "question": "This Shakespeare play features Beatrice and Benedick.",
+        "answer": "Much Ado About Nothing",
+        "aliases": [],
+        "category": "Shakespeare",
+        "difficulty": 3
+    },
+    {
+        "id": 110,
+        "question": "This Shakespeare tragedy features Desdemona.",
+        "answer": "Othello",
+        "aliases": [],
+        "category": "Shakespeare",
+        "difficulty": 2
+    },
+    {
+        "id": 111,
+        "question": "This author wrote Great Expectations and A Tale of Two Cities.",
+        "answer": "Charles Dickens",
+        "aliases": [
+            "Dickens"
+        ],
+        "category": "Literature",
+        "difficulty": 2
+    },
+    {
+        "id": 112,
+        "question": "This author wrote To Kill a Mockingbird.",
+        "answer": "Harper Lee",
+        "aliases": [
+            "Lee"
+        ],
+        "category": "Literature",
+        "difficulty": 2
+    },
+    {
+        "id": 113,
+        "question": "This author wrote The Great Gatsby.",
+        "answer": "F. Scott Fitzgerald",
+        "aliases": [
+            "Fitzgerald",
+            "Scott Fitzgerald"
+        ],
+        "category": "Literature",
+        "difficulty": 2
+    },
+    {
+        "id": 114,
+        "question": "This author wrote Jane Eyre.",
+        "answer": "Charlotte Brontë",
+        "aliases": [
+            "Charlotte Bronte",
+            "Brontë",
+            "Bronte"
+        ],
+        "category": "Literature",
+        "difficulty": 3
+    },
+    {
+        "id": 115,
+        "question": "This author wrote Wuthering Heights.",
+        "answer": "Emily Brontë",
+        "aliases": [
+            "Emily Bronte",
+            "Brontë",
+            "Bronte"
+        ],
+        "category": "Literature",
+        "difficulty": 3
+    },
+    {
+        "id": 116,
+        "question": "This river runs through Baghdad.",
+        "answer": "Tigris",
+        "aliases": [
+            "The Tigris",
+            "Tigris River"
+        ],
+        "category": "Geography",
+        "difficulty": 3
+    },
+    {
+        "id": 117,
+        "question": "This river runs through Cairo.",
+        "answer": "Nile",
+        "aliases": [
+            "The Nile",
+            "Nile River"
+        ],
+        "category": "Geography",
+        "difficulty": 2
+    },
+    {
+        "id": 118,
+        "question": "This strait separates Spain from Morocco.",
+        "answer": "Strait of Gibraltar",
+        "aliases": [
+            "Gibraltar",
+            "The Strait of Gibraltar"
+        ],
+        "category": "Geography",
+        "difficulty": 3
+    },
+    {
+        "id": 119,
+        "question": "Siam is the former name of this country.",
+        "answer": "Thailand",
+        "aliases": [],
+        "category": "Geography",
+        "difficulty": 2
+    },
+    {
+        "id": 120,
+        "question": "Persia is the former name of this country.",
+        "answer": "Iran",
+        "aliases": [],
+        "category": "Geography",
+        "difficulty": 2
+    },
+    {
+        "id": 121,
+        "question": "This French military leader was defeated at Waterloo in 1815.",
+        "answer": "Napoleon Bonaparte",
+        "aliases": [
+            "Napoleon",
+            "Napolean"
+        ],
+        "category": "World History",
+        "difficulty": 2
+    },
+    {
+        "id": 122,
+        "question": "This 1815 meeting redrew Europe after the Napoleonic Wars.",
+        "answer": "Congress of Vienna",
+        "aliases": [
+            "Vienna"
+        ],
+        "category": "World History",
+        "difficulty": 3
+    },
+    {
+        "id": 123,
+        "question": "This Austrian statesman was a major figure at the Congress of Vienna.",
+        "answer": "Metternich",
+        "aliases": [
+            "Klemens von Metternich",
+            "Prince Metternich"
+        ],
+        "category": "World History",
+        "difficulty": 3
+    },
+    {
+        "id": 124,
+        "question": "This queen ruled England during the defeat of the Spanish Armada.",
+        "answer": "Elizabeth I",
+        "aliases": [
+            "Queen Elizabeth I",
+            "Elizabeth the First"
+        ],
+        "category": "World History",
+        "difficulty": 2
+    },
+    {
+        "id": 125,
+        "question": "This 1066 battle marked the Norman conquest of England.",
+        "answer": "Battle of Hastings",
+        "aliases": [
+            "Hastings"
+        ],
+        "category": "World History",
+        "difficulty": 2
+    },
+    {
+        "id": 126,
+        "question": "This document was signed by King John in 1215.",
+        "answer": "Magna Carta",
+        "aliases": [
+            "The Magna Carta"
+        ],
+        "category": "World History",
+        "difficulty": 2
+    },
+    {
+        "id": 127,
+        "question": "This Russian czar was known as 'the Great' and built St. Petersburg.",
+        "answer": "Peter the Great",
+        "aliases": [
+            "Peter I"
+        ],
+        "category": "World History",
+        "difficulty": 2
+    },
+    {
+        "id": 128,
+        "question": "This Russian empress was also known as 'the Great.'",
+        "answer": "Catherine the Great",
+        "aliases": [
+            "Catherine II"
+        ],
+        "category": "World History",
+        "difficulty": 2
+    },
+    {
+        "id": 129,
+        "question": "This empire had Suleiman the Magnificent as one of its major rulers.",
+        "answer": "Ottoman Empire",
+        "aliases": [
+            "Ottoman"
+        ],
+        "category": "World History",
+        "difficulty": 3
+    },
+    {
+        "id": 130,
+        "question": "This Mongol leader founded one of history's largest empires.",
+        "answer": "Genghis Khan",
+        "aliases": [
+            "Chinggis Khan"
+        ],
+        "category": "World History",
+        "difficulty": 2
+    },
+    {
+        "id": 131,
+        "question": "This composer wrote the Moonlight Sonata.",
+        "answer": "Beethoven",
+        "aliases": [
+            "Ludwig van Beethoven"
+        ],
+        "category": "Classical Music",
+        "difficulty": 2
+    },
+    {
+        "id": 132,
+        "question": "This composer wrote the 1812 Overture.",
+        "answer": "Tchaikovsky",
+        "aliases": [
+            "Pyotr Ilyich Tchaikovsky",
+            "Peter Tchaikovsky"
+        ],
+        "category": "Classical Music",
+        "difficulty": 2
+    },
+    {
+        "id": 133,
+        "question": "This composer wrote The Planets.",
+        "answer": "Gustav Holst",
+        "aliases": [
+            "Holst"
+        ],
+        "category": "Classical Music",
+        "difficulty": 3
+    },
+    {
+        "id": 134,
+        "question": "This composer wrote Carmina Burana.",
+        "answer": "Carl Orff",
+        "aliases": [
+            "Orff"
+        ],
+        "category": "Classical Music",
+        "difficulty": 3
+    },
+    {
+        "id": 135,
+        "question": "This composer wrote The Rite of Spring.",
+        "answer": "Igor Stravinsky",
+        "aliases": [
+            "Stravinsky"
+        ],
+        "category": "Classical Music",
+        "difficulty": 3
+    },
+    {
+        "id": 136,
+        "question": "This composer wrote the opera Fidelio.",
+        "answer": "Beethoven",
+        "aliases": [
+            "Ludwig van Beethoven"
+        ],
+        "category": "Classical Music",
+        "difficulty": 3
+    },
+    {
+        "id": 137,
+        "question": "This composer wrote Finlandia.",
+        "answer": "Jean Sibelius",
+        "aliases": [
+            "Sibelius"
+        ],
+        "category": "Classical Music",
+        "difficulty": 3
+    },
+    {
+        "id": 138,
+        "question": "This composer wrote The Moldau.",
+        "answer": "Bedrich Smetana",
+        "aliases": [
+            "Smetana",
+            "Bedřich Smetana"
+        ],
+        "category": "Classical Music",
+        "difficulty": 3
+    },
+    {
+        "id": 139,
+        "question": "This scientist developed the polio vaccine commonly associated with an injectable shot.",
+        "answer": "Jonas Salk",
+        "aliases": [
+            "Salk"
+        ],
+        "category": "Science",
+        "difficulty": 3
+    },
+    {
+        "id": 140,
+        "question": "This scientist developed an oral polio vaccine.",
+        "answer": "Albert Sabin",
+        "aliases": [
+            "Sabin"
+        ],
+        "category": "Science",
+        "difficulty": 3
+    },
+    {
+        "id": 141,
+        "question": "This woman won two Nobel Prizes and researched radioactivity.",
+        "answer": "Marie Curie",
+        "aliases": [
+            "Curie",
+            "Madame Curie"
+        ],
+        "category": "Science",
+        "difficulty": 2
+    },
+    {
+        "id": 142,
+        "question": "This scientist is associated with the uncertainty principle.",
+        "answer": "Werner Heisenberg",
+        "aliases": [
+            "Heisenberg"
+        ],
+        "category": "Science",
+        "difficulty": 3
+    },
+    {
+        "id": 143,
+        "question": "This scientist proposed the laws of planetary motion.",
+        "answer": "Johannes Kepler",
+        "aliases": [
+            "Kepler"
+        ],
+        "category": "Science",
+        "difficulty": 3
+    },
+    {
+        "id": 144,
+        "question": "This scientist improved the telescope and supported heliocentrism.",
+        "answer": "Galileo Galilei",
+        "aliases": [
+            "Galileo"
+        ],
+        "category": "Science",
+        "difficulty": 2
+    },
+    {
+        "id": 145,
+        "question": "This astronomer proposed a heliocentric model of the solar system.",
+        "answer": "Nicolaus Copernicus",
+        "aliases": [
+            "Copernicus"
+        ],
+        "category": "Science",
+        "difficulty": 2
+    },
+    {
+        "id": 146,
+        "question": "This scientist's name is attached to the periodic table.",
+        "answer": "Dmitri Mendeleev",
+        "aliases": [
+            "Mendeleev"
+        ],
+        "category": "Science",
+        "difficulty": 3
+    },
+    {
+        "id": 147,
+        "question": "This author wrote The Divine Comedy.",
+        "answer": "Dante Alighieri",
+        "aliases": [
+            "Dante"
+        ],
+        "category": "Literature",
+        "difficulty": 2
+    },
+    {
+        "id": 148,
+        "question": "This author wrote Don Quixote.",
+        "answer": "Miguel de Cervantes",
+        "aliases": [
+            "Cervantes"
+        ],
+        "category": "Literature",
+        "difficulty": 2
+    },
+    {
+        "id": 149,
+        "question": "This author wrote Paradise Lost.",
+        "answer": "John Milton",
+        "aliases": [
+            "Milton"
+        ],
+        "category": "Literature",
+        "difficulty": 3
+    },
+    {
+        "id": 150,
+        "question": "This author wrote The Canterbury Tales.",
+        "answer": "Geoffrey Chaucer",
+        "aliases": [
+            "Chaucer"
+        ],
+        "category": "Literature",
+        "difficulty": 3
+    },
+    {
+        "id": 151,
+        "question": "This author wrote The Stranger.",
+        "answer": "Albert Camus",
+        "aliases": [
+            "Camus"
+        ],
+        "category": "Literature",
+        "difficulty": 3
+    },
+    {
+        "id": 152,
+        "question": "This author wrote One Hundred Years of Solitude.",
+        "answer": "Gabriel García Márquez",
+        "aliases": [
+            "Gabriel Garcia Marquez",
+            "García Márquez",
+            "Garcia Marquez",
+            "Marquez"
+        ],
+        "category": "Literature",
+        "difficulty": 3
+    },
+    {
+        "id": 153,
+        "question": "This author wrote The Odyssey and The Iliad.",
+        "answer": "Homer",
+        "aliases": [],
+        "category": "Literature",
+        "difficulty": 2
+    },
+    {
+        "id": 154,
+        "question": "This author wrote Anna Karenina and War and Peace.",
+        "answer": "Leo Tolstoy",
+        "aliases": [
+            "Tolstoy"
+        ],
+        "category": "Literature",
+        "difficulty": 2
+    },
+    {
+        "id": 155,
+        "question": "This musical features Jean Valjean and Javert.",
+        "answer": "Les Misérables",
+        "aliases": [
+            "Les Miserables",
+            "Les Mis"
+        ],
+        "category": "Theatre",
+        "difficulty": 2
+    },
+    {
+        "id": 156,
+        "question": "This musical features the songs 'Memory' and 'Jellicle Songs for Jellicle Cats.'",
+        "answer": "Cats",
+        "aliases": [],
+        "category": "Theatre",
+        "difficulty": 2
+    },
+    {
+        "id": 157,
+        "question": "This musical features Eva Perón.",
+        "answer": "Evita",
+        "aliases": [],
+        "category": "Theatre",
+        "difficulty": 2
+    },
+    {
+        "id": 158,
+        "question": "This musical by Lin-Manuel Miranda is about one of America's Founding Fathers.",
+        "answer": "Hamilton",
+        "aliases": [],
+        "category": "Theatre",
+        "difficulty": 2
+    },
+    {
+        "id": 159,
+        "question": "This playwright wrote A Streetcar Named Desire and The Glass Menagerie.",
+        "answer": "Tennessee Williams",
+        "aliases": [
+            "Williams"
+        ],
+        "category": "Theatre",
+        "difficulty": 3
+    },
+    {
+        "id": 160,
+        "question": "This playwright wrote Death of a Salesman and The Crucible.",
+        "answer": "Arthur Miller",
+        "aliases": [
+            "Miller"
+        ],
+        "category": "Theatre",
+        "difficulty": 3
+    },
+    {
+        "id": 161,
+        "question": "This number is the only even prime number.",
+        "answer": "2",
+        "aliases": [
+            "Two"
+        ],
+        "category": "Math",
+        "difficulty": 1
+    },
+    {
+        "id": 162,
+        "question": "This term describes a triangle with three equal sides.",
+        "answer": "Equilateral",
+        "aliases": [
+            "Equilateral triangle"
+        ],
+        "category": "Math",
+        "difficulty": 2
+    },
+    {
+        "id": 163,
+        "question": "This term describes a triangle with two equal sides.",
+        "answer": "Isosceles",
+        "aliases": [
+            "Isosceles triangle"
+        ],
+        "category": "Math",
+        "difficulty": 2
+    },
+    {
+        "id": 164,
+        "question": "This Greek letter is commonly used to represent the ratio of a circle's circumference to its diameter.",
+        "answer": "Pi",
+        "aliases": [
+            "π"
+        ],
+        "category": "Math",
+        "difficulty": 1
+    },
+    {
+        "id": 165,
+        "question": "This Roman numeral represents 50.",
+        "answer": "L",
+        "aliases": [],
+        "category": "Math",
+        "difficulty": 2
+    },
+    {
+        "id": 166,
+        "question": "This Roman numeral represents 500.",
+        "answer": "D",
+        "aliases": [],
+        "category": "Math",
+        "difficulty": 2
+    },
+    {
+        "id": 167,
+        "question": "This branch of mathematics deals with sine, cosine, and tangent.",
+        "answer": "Trigonometry",
+        "aliases": [
+            "Trig"
+        ],
+        "category": "Math",
+        "difficulty": 2
+    },
+    {
+        "id": 168,
+        "question": "This branch of mathematics studies points, lines, angles, surfaces, and solids.",
+        "answer": "Geometry",
+        "aliases": [],
+        "category": "Math",
+        "difficulty": 1
+    },
+    {
+        "id": 169,
+        "question": "This mathematician is associated with a theorem about right triangles.",
+        "answer": "Pythagoras",
+        "aliases": [
+            "Pythagorean theorem"
+        ],
+        "category": "Math",
+        "difficulty": 2
+    },
+    {
+        "id": 170,
+        "question": "This sequence begins 0, 1, 1, 2, 3, 5, 8.",
+        "answer": "Fibonacci sequence",
+        "aliases": [
+            "Fibonacci"
+        ],
+        "category": "Math",
+        "difficulty": 2
+    },
+    {
+        "id": 171,
+        "question": "This value is the square root of 144.",
+        "answer": "12",
+        "aliases": [
+            "Twelve"
+        ],
+        "category": "Math",
+        "difficulty": 1
+    },
+    {
+        "id": 172,
+        "question": "This term describes the longest side of a right triangle.",
+        "answer": "Hypotenuse",
+        "aliases": [],
+        "category": "Math",
+        "difficulty": 2
+    },
+    {
+        "id": 173,
+        "question": "This musical features the Phantom and Christine.",
+        "answer": "The Phantom of the Opera",
+        "aliases": [
+            "Phantom of the Opera",
+            "Phantom"
+        ],
+        "category": "Theatre",
+        "difficulty": 2
+    },
+    {
+        "id": 174,
+        "question": "This musical features the songs 'Tonight' and 'America' and is inspired by Romeo and Juliet.",
+        "answer": "West Side Story",
+        "aliases": [],
+        "category": "Theatre",
+        "difficulty": 2
+    },
+    {
+        "id": 175,
+        "question": "This musical features Tevye and the song 'If I Were a Rich Man.'",
+        "answer": "Fiddler on the Roof",
+        "aliases": [
+            "Fiddler"
+        ],
+        "category": "Theatre",
+        "difficulty": 2
+    },
+    {
+        "id": 176,
+        "question": "This musical features the songs 'The Impossible Dream' and 'Dulcinea.'",
+        "answer": "Man of La Mancha",
+        "aliases": [],
+        "category": "Theatre",
+        "difficulty": 3
+    },
+    {
+        "id": 177,
+        "question": "This playwright wrote Waiting for Godot.",
+        "answer": "Samuel Beckett",
+        "aliases": [
+            "Beckett"
+        ],
+        "category": "Theatre",
+        "difficulty": 3
+    },
+    {
+        "id": 178,
+        "question": "This playwright wrote The Importance of Being Earnest.",
+        "answer": "Oscar Wilde",
+        "aliases": [
+            "Wilde"
+        ],
+        "category": "Theatre",
+        "difficulty": 3
+    },
+    {
+        "id": 179,
+        "question": "This playwright wrote A Doll's House and Hedda Gabler.",
+        "answer": "Henrik Ibsen",
+        "aliases": [
+            "Ibsen"
+        ],
+        "category": "Theatre",
+        "difficulty": 3
+    },
+    {
+        "id": 180,
+        "question": "This playwright wrote Pygmalion.",
+        "answer": "George Bernard Shaw",
+        "aliases": [
+            "Bernard Shaw",
+            "Shaw",
+            "G. B. Shaw",
+            "GB Shaw"
+        ],
+        "category": "Theatre",
+        "difficulty": 3
+    },
+    {
+        "id": 181,
+        "question": "This wall began falling in 1989, symbolizing the end of the Cold War.",
+        "answer": "Berlin Wall",
+        "aliases": [
+            "The Berlin Wall"
+        ],
+        "category": "World History",
+        "difficulty": 2
+    },
+    {
+        "id": 182,
+        "question": "This South African leader became president in 1994 after years imprisoned on Robben Island.",
+        "answer": "Nelson Mandela",
+        "aliases": [
+            "Mandela"
+        ],
+        "category": "World History",
+        "difficulty": 2
+    },
+    {
+        "id": 183,
+        "question": "This Indian leader used nonviolent resistance against British rule.",
+        "answer": "Mahatma Gandhi",
+        "aliases": [
+            "Gandhi"
+        ],
+        "category": "World History",
+        "difficulty": 2
+    },
+    {
+        "id": 184,
+        "question": "This Chinese leader proclaimed the People's Republic of China in 1949.",
+        "answer": "Mao Zedong",
+        "aliases": [
+            "Mao",
+            "Mao Tse-tung",
+            "Mao Tse Tung"
+        ],
+        "category": "World History",
+        "difficulty": 3
+    },
+    {
+        "id": 185,
+        "question": "This revolution began in 1789 with events including the storming of the Bastille.",
+        "answer": "French Revolution",
+        "aliases": [
+            "The French Revolution"
+        ],
+        "category": "World History",
+        "difficulty": 2
+    },
+    {
+        "id": 186,
+        "question": "This queen of France was executed during the French Revolution.",
+        "answer": "Marie Antoinette",
+        "aliases": [],
+        "category": "World History",
+        "difficulty": 2
+    },
+    {
+        "id": 187,
+        "question": "This Byzantine emperor is associated with a famous law code.",
+        "answer": "Justinian",
+        "aliases": [
+            "Justinian I"
+        ],
+        "category": "World History",
+        "difficulty": 3
+    },
+    {
+        "id": 188,
+        "question": "This Carthaginian general crossed the Alps with elephants.",
+        "answer": "Hannibal",
+        "aliases": [
+            "Hannibal Barca"
+        ],
+        "category": "World History",
+        "difficulty": 2
+    },
+    {
+        "id": 189,
+        "question": "This Egyptian queen was allied with Julius Caesar and Mark Antony.",
+        "answer": "Cleopatra",
+        "aliases": [
+            "Cleopatra VII"
+        ],
+        "category": "World History",
+        "difficulty": 2
+    },
+    {
+        "id": 190,
+        "question": "This English king had six wives.",
+        "answer": "Henry VIII",
+        "aliases": [
+            "Henry the Eighth",
+            "King Henry VIII"
+        ],
+        "category": "World History",
+        "difficulty": 2
+    },
+    {
+        "id": 191,
+        "question": "This Verdi opera is set in ancient Egypt.",
+        "answer": "Aida",
+        "aliases": [],
+        "category": "Opera",
+        "difficulty": 2
+    },
+    {
+        "id": 192,
+        "question": "This Verdi opera features the aria 'La donna è mobile.'",
+        "answer": "Rigoletto",
+        "aliases": [],
+        "category": "Opera",
+        "difficulty": 3
+    },
+    {
+        "id": 193,
+        "question": "This Puccini opera features Mimì and Rodolfo.",
+        "answer": "La Bohème",
+        "aliases": [
+            "La Boheme",
+            "Bohème",
+            "Boheme"
+        ],
+        "category": "Opera",
+        "difficulty": 3
+    },
+    {
+        "id": 194,
+        "question": "This Mozart opera features Papageno and the Queen of the Night.",
+        "answer": "The Magic Flute",
+        "aliases": [
+            "Magic Flute",
+            "Die Zauberflöte",
+            "Die Zauberflote"
+        ],
+        "category": "Opera",
+        "difficulty": 3
+    },
+    {
+        "id": 195,
+        "question": "This Wagner opera cycle includes Das Rheingold and Götterdämmerung.",
+        "answer": "The Ring Cycle",
+        "aliases": [
+            "Ring Cycle",
+            "Der Ring des Nibelungen",
+            "The Ring"
+        ],
+        "category": "Opera",
+        "difficulty": 3
+    },
+    {
+        "id": 196,
+        "question": "This Rossini opera features Figaro as a barber.",
+        "answer": "The Barber of Seville",
+        "aliases": [
+            "Barber of Seville"
+        ],
+        "category": "Opera",
+        "difficulty": 3
+    },
+    {
+        "id": 197,
+        "question": "This Greek hero killed Medusa.",
+        "answer": "Perseus",
+        "aliases": [],
+        "category": "Mythology",
+        "difficulty": 3
+    },
+    {
+        "id": 198,
+        "question": "This Greek hero completed twelve labors.",
+        "answer": "Heracles",
+        "aliases": [
+            "Hercules"
+        ],
+        "category": "Mythology",
+        "difficulty": 2
+    },
+    {
+        "id": 199,
+        "question": "This Supreme Court case established the 'separate but equal' doctrine.",
+        "answer": "Plessy v. Ferguson",
+        "aliases": [
+            "Plessy",
+            "Plessy vs Ferguson"
+        ],
+        "category": "Civics",
+        "difficulty": 3
+    },
+    {
+        "id": 200,
+        "question": "This Supreme Court case protected a student's right to wear a black armband in school.",
+        "answer": "Tinker v. Des Moines",
+        "aliases": [
+            "Tinker",
+            "Tinker vs Des Moines"
+        ],
+        "category": "Civics",
+        "difficulty": 3
+    },
+    {
+        "id": 201,
+        "question": "This word describes a word that imitates the sound it names, like 'buzz' or 'clang'.",
+        "answer": "onomatopoeia",
+        "aliases": [
+            "onomatopoeic"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 2
+    },
+    {
+        "id": 202,
+        "question": "This common prefix meaning 'against' or 'opposite' appears in words like antifreeze and antibody.",
+        "answer": "anti",
+        "aliases": [
+            "anti-"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 1
+    },
+    {
+        "id": 203,
+        "question": "This suffix meaning 'the study of' appears in biology, geology, and theology.",
+        "answer": "ology",
+        "aliases": [
+            "-ology"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 1
+    },
+    {
+        "id": 204,
+        "question": "Meaning 'good' or 'well', this Latin root appears in benefit, benevolent, and benign.",
+        "answer": "bene",
+        "aliases": [
+            "ben"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 2
+    },
+    {
+        "id": 205,
+        "question": "Meaning 'bad' or 'evil', this Latin root appears in malicious, malady, and malfunction.",
+        "answer": "mal",
+        "aliases": [
+            "male"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 2
+    },
+    {
+        "id": 206,
+        "question": "Meaning 'all', this root appears in omnipotent, omnivore, and omnibus.",
+        "answer": "omni",
+        "aliases": [
+            "omni-"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 2
+    },
+    {
+        "id": 207,
+        "question": "Meaning 'many', this Greek-derived prefix appears in polygon, polyglot, and polytheism.",
+        "answer": "poly",
+        "aliases": [
+            "poly-"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 1
+    },
+    {
+        "id": 208,
+        "question": "Meaning 'one' or 'single', this prefix appears in monologue, monopoly, and monotheism.",
+        "answer": "mono",
+        "aliases": [
+            "mono-"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 1
+    },
+    {
+        "id": 209,
+        "question": "A word that is spelled the same as another word but has a different meaning, like 'bat' the animal and 'bat' used in baseball, is this.",
+        "answer": "homonym",
+        "aliases": [
+            "homonyms"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 2
+    },
+    {
+        "id": 210,
+        "question": "A word that sounds like another word but has a different meaning, like 'flower' and 'flour', is this.",
+        "answer": "homophone",
+        "aliases": [
+            "homophones"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 2
+    },
+    {
+        "id": 211,
+        "question": "A word with the opposite meaning of another word is called this.",
+        "answer": "antonym",
+        "aliases": [
+            "antonyms"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 1
+    },
+    {
+        "id": 212,
+        "question": "A word with the same or nearly the same meaning as another word is called this.",
+        "answer": "synonym",
+        "aliases": [
+            "synonyms"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 1
+    },
+    {
+        "id": 213,
+        "question": "This term means a word formed from the first letters of a phrase, like NASA or SCUBA.",
+        "answer": "acronym",
+        "aliases": [
+            "acronyms"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 2
+    },
+    {
+        "id": 214,
+        "question": "A word or phrase that reads the same forward and backward, like 'level' or 'madam', is this.",
+        "answer": "palindrome",
+        "aliases": [
+            "palindromes"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 2
+    },
+    {
+        "id": 215,
+        "question": "This punctuation mark is used to show possession or to mark omitted letters in a contraction.",
+        "answer": "apostrophe",
+        "aliases": [
+            "an apostrophe"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 1
+    },
+    {
+        "id": 216,
+        "question": "This punctuation mark is used to join words in compounds like 'well-known' or to split words at line breaks.",
+        "answer": "hyphen",
+        "aliases": [
+            "a hyphen"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 1
+    },
+    {
+        "id": 217,
+        "question": "This punctuation mark can join two closely related independent clauses; it is stronger than a comma but weaker than a period.",
+        "answer": "semicolon",
+        "aliases": [
+            "semi-colon",
+            "a semicolon"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 2
+    },
+    {
+        "id": 218,
+        "question": "This mark made of three dots can indicate omitted words or a trailing-off thought.",
+        "answer": "ellipsis",
+        "aliases": [
+            "ellipses",
+            "three dots"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 2
+    },
+    {
+        "id": 219,
+        "question": "In grammar, a noun that names a person, place, thing, or idea is this part of speech.",
+        "answer": "noun",
+        "aliases": [
+            "a noun"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 1
+    },
+    {
+        "id": 220,
+        "question": "In grammar, a word that modifies a verb, adjective, or another word of the same type is called this.",
+        "answer": "adverb",
+        "aliases": [
+            "an adverb"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 1
+    },
+    {
+        "id": 221,
+        "question": "In grammar, this part of speech connects words, phrases, or clauses; examples include 'and', 'but', and 'or'.",
+        "answer": "conjunction",
+        "aliases": [
+            "a conjunction"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 1
+    },
+    {
+        "id": 222,
+        "question": "A word placed before a noun or pronoun to show a relationship, as in 'on the table' or 'under the bridge', is this part of speech.",
+        "answer": "preposition",
+        "aliases": [
+            "a preposition"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 2
+    },
+    {
+        "id": 223,
+        "question": "This word for a newly coined term or expression comes from Greek roots meaning 'new' and 'word'.",
+        "answer": "neologism",
+        "aliases": [
+            "neologisms"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 3
+    },
+    {
+        "id": 224,
+        "question": "This term means a mild or indirect word substituted for one considered too harsh, as 'passed away' for 'died'.",
+        "answer": "euphemism",
+        "aliases": [
+            "euphemisms"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 2
+    },
+    {
+        "id": 225,
+        "question": "This term means a deliberately harsh or blunt expression, the opposite of a euphemism.",
+        "answer": "dysphemism",
+        "aliases": [
+            "dysphemisms"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 3
+    },
+    {
+        "id": 226,
+        "question": "This figure of speech directly compares two unlike things using 'like' or 'as'.",
+        "answer": "simile",
+        "aliases": [
+            "a simile"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 1
+    },
+    {
+        "id": 227,
+        "question": "This figure of speech describes one thing as another without using 'like' or 'as'.",
+        "answer": "metaphor",
+        "aliases": [
+            "a metaphor"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 1
+    },
+    {
+        "id": 228,
+        "question": "This figure of speech gives human qualities to nonhuman things, as when the wind 'whispers'.",
+        "answer": "personification",
+        "aliases": [
+            "personifying"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 2
+    },
+    {
+        "id": 229,
+        "question": "This figure of speech uses deliberate exaggeration for effect, as in 'I've told you a million times'.",
+        "answer": "hyperbole",
+        "aliases": [
+            "exaggeration"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 2
+    },
+    {
+        "id": 230,
+        "question": "This term describes repeated initial consonant sounds, as in 'Peter Piper picked a peck'.",
+        "answer": "alliteration",
+        "aliases": [
+            "alliterative"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 2
+    },
+    {
+        "id": 231,
+        "question": "This term describes repeated vowel sounds, as in the long 'o' sound in 'go slow over the road'.",
+        "answer": "assonance",
+        "aliases": [
+            "assonant"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 3
+    },
+    {
+        "id": 232,
+        "question": "This term describes repeated consonant sounds, often at the ends of words, as in 'pitter patter'.",
+        "answer": "consonance",
+        "aliases": [
+            "consonant repetition"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 3
+    },
+    {
+        "id": 233,
+        "question": "In poetry, this five-foot meter with an unstressed-stressed rhythm is strongly associated with Shakespeare.",
+        "answer": "iambic pentameter",
+        "aliases": [
+            "iambic pentametre",
+            "pentameter",
+            "pentametre"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 2
+    },
+    {
+        "id": 234,
+        "question": "This 14-line poetic form is associated with Shakespeare, Petrarch, and strict rhyme schemes.",
+        "answer": "sonnet",
+        "aliases": [
+            "a sonnet"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 1
+    },
+    {
+        "id": 235,
+        "question": "This poetic term means the continuation of a sentence beyond the end of a line or stanza.",
+        "answer": "enjambment",
+        "aliases": [
+            "enjambement"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 3
+    },
+    {
+        "id": 236,
+        "question": "This term means a phrase whose meaning cannot be understood from the literal meanings of its words, like 'kick the bucket'.",
+        "answer": "idiom",
+        "aliases": [
+            "an idiom",
+            "idiomatic expression"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 2
+    },
+    {
+        "id": 237,
+        "question": "This term means a shortened form of a word or phrase, like 'Dr.' for doctor.",
+        "answer": "abbreviation",
+        "aliases": [
+            "abbreviations"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 1
+    },
+    {
+        "id": 238,
+        "question": "This term means a word created by combining parts of two other words, like brunch from breakfast and lunch.",
+        "answer": "portmanteau",
+        "aliases": [
+            "blend",
+            "word blend"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 3
+    },
+    {
+        "id": 239,
+        "question": "This term means a word that comes from the name of a person, like boycott or sandwich.",
+        "answer": "eponym",
+        "aliases": [
+            "eponyms"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 3
+    },
+    {
+        "id": 240,
+        "question": "This term means the history and origin of a word.",
+        "answer": "etymology",
+        "aliases": [
+            "word origin",
+            "word origins"
+        ],
+        "category": "Language / Vocabulary",
+        "difficulty": 2
+    }
+]
