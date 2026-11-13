@@ -2989,5 +2989,4521 @@
                 "category": "Language / Vocabulary"
             }
         ]
+    },
+    {
+        "date": "2026-10-15T16:45:04",
+        "score": 7,
+        "total_questions": 10,
+        "accuracy": 70,
+        "display_mode": "Practice",
+        "difficulty_mode": "All",
+        "category_filter": "All",
+        "missed_question_ids": [
+            235,
+            119,
+            194
+        ],
+        "results": [
+            {
+                "question_id": 29,
+                "question": "This composer wrote The Four Seasons.",
+                "user_answer": "Vivaldi",
+                "correct_answer": "Vivaldi",
+                "was_correct": true,
+                "category": "Classical Music"
+            },
+            {
+                "question_id": 148,
+                "question": "This author wrote Don Quixote.",
+                "user_answer": "Cervantes",
+                "correct_answer": "Miguel de Cervantes",
+                "was_correct": true,
+                "category": "Literature"
+            },
+            {
+                "question_id": 235,
+                "question": "This poetic term means the continuation of a sentence beyond the end of a line or stanza.",
+                "user_answer": "",
+                "correct_answer": "enjambment",
+                "was_correct": false,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 110,
+                "question": "This Shakespeare tragedy features Desdemona.",
+                "user_answer": "othello",
+                "correct_answer": "Othello",
+                "was_correct": true,
+                "category": "Shakespeare"
+            },
+            {
+                "question_id": 3,
+                "question": "This Shakespeare villain manipulates Othello into jealousy.",
+                "user_answer": "iago",
+                "correct_answer": "Iago",
+                "was_correct": true,
+                "category": "Shakespeare"
+            },
+            {
+                "question_id": 119,
+                "question": "Siam is the former name of this country.",
+                "user_answer": "vietnam",
+                "correct_answer": "Thailand",
+                "was_correct": false,
+                "category": "Geography"
+            },
+            {
+                "question_id": 194,
+                "question": "This Mozart opera features Papageno and the Queen of the Night.",
+                "user_answer": "",
+                "correct_answer": "The Magic Flute",
+                "was_correct": false,
+                "category": "Opera"
+            },
+            {
+                "question_id": 53,
+                "question": "This amendment deals with presidential succession and disability.",
+                "user_answer": "25th",
+                "correct_answer": "25th Amendment",
+                "was_correct": true,
+                "category": "Civics"
+            },
+            {
+                "question_id": 118,
+                "question": "This strait separates Spain from Morocco.",
+                "user_answer": "gibraltar",
+                "correct_answer": "Strait of Gibraltar",
+                "was_correct": true,
+                "category": "Geography"
+            },
+            {
+                "question_id": 212,
+                "question": "A word with the same or nearly the same meaning as another word is called this.",
+                "user_answer": "synonym",
+                "correct_answer": "synonym",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            }
+        ]
+    },
+    {
+        "date": "2026-10-15T16:49:28",
+        "score": 8,
+        "total_questions": 10,
+        "accuracy": 80,
+        "display_mode": "Practice",
+        "difficulty_mode": "Warmup",
+        "category_filter": "All",
+        "missed_question_ids": [
+            36,
+            210
+        ],
+        "results": [
+            {
+                "question_id": 36,
+                "question": "This Shakespeare play features Brutus and Cassius.",
+                "user_answer": "caesar",
+                "correct_answer": "Julius Caesar",
+                "was_correct": false,
+                "category": "Shakespeare"
+            },
+            {
+                "question_id": 214,
+                "question": "A word or phrase that reads the same forward and backward, like 'level' or 'madam', is this.",
+                "user_answer": "palindrome",
+                "correct_answer": "palindrome",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 130,
+                "question": "This Mongol leader founded one of history's largest empires.",
+                "user_answer": "genghis khan",
+                "correct_answer": "Genghis Khan",
+                "was_correct": true,
+                "category": "World History"
+            },
+            {
+                "question_id": 170,
+                "question": "This sequence begins 0, 1, 1, 2, 3, 5, 8.",
+                "user_answer": "fibonacci",
+                "correct_answer": "Fibonacci sequence",
+                "was_correct": true,
+                "category": "Math"
+            },
+            {
+                "question_id": 188,
+                "question": "This Carthaginian general crossed the Alps with elephants.",
+                "user_answer": "hannibal",
+                "correct_answer": "Hannibal",
+                "was_correct": true,
+                "category": "World History"
+            },
+            {
+                "question_id": 210,
+                "question": "A word that sounds like another word but has a different meaning, like 'flower' and 'flour', is this.",
+                "user_answer": "homynym",
+                "correct_answer": "homophone",
+                "was_correct": false,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 39,
+                "question": "This author wrote 1984 and Animal Farm.",
+                "user_answer": "orwell",
+                "correct_answer": "George Orwell",
+                "was_correct": true,
+                "category": "Literature"
+            },
+            {
+                "question_id": 162,
+                "question": "This term describes a triangle with three equal sides.",
+                "user_answer": "equilateral",
+                "correct_answer": "Equilateral",
+                "was_correct": true,
+                "category": "Math"
+            },
+            {
+                "question_id": 22,
+                "question": "This biblical figure interpreted dreams in Egypt and owned a coat of many colors.",
+                "user_answer": "joseph",
+                "correct_answer": "Joseph",
+                "was_correct": true,
+                "category": "Bible"
+            },
+            {
+                "question_id": 111,
+                "question": "This author wrote Great Expectations and A Tale of Two Cities.",
+                "user_answer": "dickens",
+                "correct_answer": "Charles Dickens",
+                "was_correct": true,
+                "category": "Literature"
+            }
+        ]
+    },
+    {
+        "date": "2026-10-15T16:50:32",
+        "score": 8,
+        "total_questions": 10,
+        "accuracy": 80,
+        "display_mode": "Practice",
+        "difficulty_mode": "All",
+        "category_filter": "All",
+        "missed_question_ids": [
+            218,
+            175
+        ],
+        "results": [
+            {
+                "question_id": 218,
+                "question": "This mark made of three dots can indicate omitted words or a trailing-off thought.",
+                "user_answer": "elipses",
+                "correct_answer": "ellipsis",
+                "was_correct": false,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 66,
+                "question": "This biblical figure survived a den of lions.",
+                "user_answer": "daniel",
+                "correct_answer": "Daniel",
+                "was_correct": true,
+                "category": "Bible"
+            },
+            {
+                "question_id": 17,
+                "question": "This river runs through London.",
+                "user_answer": "thames",
+                "correct_answer": "Thames",
+                "was_correct": true,
+                "category": "Geography"
+            },
+            {
+                "question_id": 39,
+                "question": "This author wrote 1984 and Animal Farm.",
+                "user_answer": "orwell",
+                "correct_answer": "George Orwell",
+                "was_correct": true,
+                "category": "Literature"
+            },
+            {
+                "question_id": 186,
+                "question": "This queen of France was executed during the French Revolution.",
+                "user_answer": "marie antoinette",
+                "correct_answer": "Marie Antoinette",
+                "was_correct": true,
+                "category": "World History"
+            },
+            {
+                "question_id": 129,
+                "question": "This empire had Suleiman the Magnificent as one of its major rulers.",
+                "user_answer": "ottoman",
+                "correct_answer": "Ottoman Empire",
+                "was_correct": true,
+                "category": "World History"
+            },
+            {
+                "question_id": 67,
+                "question": "This biblical figure was known for patience after suffering great losses.",
+                "user_answer": "job",
+                "correct_answer": "Job",
+                "was_correct": true,
+                "category": "Bible"
+            },
+            {
+                "question_id": 2,
+                "question": "This composer wrote La Boh\u00e8me.",
+                "user_answer": "puccini",
+                "correct_answer": "Puccini",
+                "was_correct": true,
+                "category": "Opera"
+            },
+            {
+                "question_id": 175,
+                "question": "This musical features Tevye and the song 'If I Were a Rich Man.'",
+                "user_answer": "",
+                "correct_answer": "Fiddler on the Roof",
+                "was_correct": false,
+                "category": "Theatre"
+            },
+            {
+                "question_id": 119,
+                "question": "Siam is the former name of this country.",
+                "user_answer": "thailand",
+                "correct_answer": "Thailand",
+                "was_correct": true,
+                "category": "Geography"
+            }
+        ]
+    },
+    {
+        "date": "2026-10-15T16:51:30",
+        "score": 10,
+        "total_questions": 10,
+        "accuracy": 100,
+        "display_mode": "Practice",
+        "difficulty_mode": "All",
+        "category_filter": "Geography",
+        "missed_question_ids": [],
+        "results": [
+            {
+                "question_id": 49,
+                "question": "This strait separates Alaska from Russia.",
+                "user_answer": "bering",
+                "correct_answer": "Bering Strait",
+                "was_correct": true,
+                "category": "Geography"
+            },
+            {
+                "question_id": 119,
+                "question": "Siam is the former name of this country.",
+                "user_answer": "thailand",
+                "correct_answer": "Thailand",
+                "was_correct": true,
+                "category": "Geography"
+            },
+            {
+                "question_id": 46,
+                "question": "This river runs through Vienna, Budapest, and Bratislava.",
+                "user_answer": "danube",
+                "correct_answer": "Danube",
+                "was_correct": true,
+                "category": "Geography"
+            },
+            {
+                "question_id": 18,
+                "question": "This mountain range separates France and Spain.",
+                "user_answer": "pyrenees",
+                "correct_answer": "Pyrenees",
+                "was_correct": true,
+                "category": "Geography"
+            },
+            {
+                "question_id": 5,
+                "question": "This river runs through Paris.",
+                "user_answer": "seine",
+                "correct_answer": "Seine",
+                "was_correct": true,
+                "category": "Geography"
+            },
+            {
+                "question_id": 17,
+                "question": "This river runs through London.",
+                "user_answer": "thames",
+                "correct_answer": "Thames",
+                "was_correct": true,
+                "category": "Geography"
+            },
+            {
+                "question_id": 50,
+                "question": "Ceylon is the former name of this island nation.",
+                "user_answer": "sri lanka",
+                "correct_answer": "Sri Lanka",
+                "was_correct": true,
+                "category": "Geography"
+            },
+            {
+                "question_id": 48,
+                "question": "This mountain range runs along the western edge of South America.",
+                "user_answer": "andes",
+                "correct_answer": "Andes",
+                "was_correct": true,
+                "category": "Geography"
+            },
+            {
+                "question_id": 47,
+                "question": "This mountain range separates Europe and Asia in Russia.",
+                "user_answer": "ural",
+                "correct_answer": "Ural Mountains",
+                "was_correct": true,
+                "category": "Geography"
+            },
+            {
+                "question_id": 118,
+                "question": "This strait separates Spain from Morocco.",
+                "user_answer": "gibraltar",
+                "correct_answer": "Strait of Gibraltar",
+                "was_correct": true,
+                "category": "Geography"
+            }
+        ]
+    },
+    {
+        "date": "2026-10-15T16:56:45",
+        "score": 5,
+        "total_questions": 10,
+        "accuracy": 50,
+        "display_mode": "Practice",
+        "difficulty_mode": "All",
+        "category_filter": "All",
+        "missed_question_ids": [
+            135,
+            221,
+            163,
+            250,
+            137
+        ],
+        "results": [
+            {
+                "question_id": 135,
+                "question": "This composer wrote The Rite of Spring.",
+                "user_answer": "mozart",
+                "correct_answer": "Igor Stravinsky",
+                "was_correct": false,
+                "category": "Classical Music"
+            },
+            {
+                "question_id": 179,
+                "question": "This playwright wrote A Doll's House and Hedda Gabler.",
+                "user_answer": "ibsen",
+                "correct_answer": "Henrik Ibsen",
+                "was_correct": true,
+                "category": "Theatre"
+            },
+            {
+                "question_id": 221,
+                "question": "In grammar, this part of speech connects words, phrases, or clauses; examples include 'and', 'but', and 'or'.",
+                "user_answer": "preposition",
+                "correct_answer": "conjunction",
+                "was_correct": false,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 163,
+                "question": "This term describes a triangle with two equal sides.",
+                "user_answer": "isoceles",
+                "correct_answer": "Isosceles",
+                "was_correct": false,
+                "category": "Math"
+            },
+            {
+                "question_id": 250,
+                "question": "This president launched the Great Society domestic program.",
+                "user_answer": "fdr",
+                "correct_answer": "Lyndon B. Johnson",
+                "was_correct": false,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 36,
+                "question": "This Shakespeare play features Brutus and Cassius.",
+                "user_answer": "julius caesar",
+                "correct_answer": "Julius Caesar",
+                "was_correct": true,
+                "category": "Shakespeare"
+            },
+            {
+                "question_id": 172,
+                "question": "This term describes the longest side of a right triangle.",
+                "user_answer": "hypotenuse",
+                "correct_answer": "Hypotenuse",
+                "was_correct": true,
+                "category": "Math"
+            },
+            {
+                "question_id": 137,
+                "question": "This composer wrote Finlandia.",
+                "user_answer": "",
+                "correct_answer": "Jean Sibelius",
+                "was_correct": false,
+                "category": "Classical Music"
+            },
+            {
+                "question_id": 210,
+                "question": "A word that sounds like another word but has a different meaning, like 'flower' and 'flour', is this.",
+                "user_answer": "homophones",
+                "correct_answer": "homophone",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 173,
+                "question": "This musical features the Phantom and Christine.",
+                "user_answer": "phantom of the opera",
+                "correct_answer": "The Phantom of the Opera",
+                "was_correct": true,
+                "category": "Theatre"
+            }
+        ]
+    },
+    {
+        "date": "2026-10-15T16:58:07",
+        "score": 8,
+        "total_questions": 10,
+        "accuracy": 80,
+        "display_mode": "Practice",
+        "difficulty_mode": "All",
+        "category_filter": "All",
+        "missed_question_ids": [
+            140,
+            223
+        ],
+        "results": [
+            {
+                "question_id": 131,
+                "question": "This composer wrote the Moonlight Sonata.",
+                "user_answer": "beethoven",
+                "correct_answer": "Beethoven",
+                "was_correct": true,
+                "category": "Classical Music"
+            },
+            {
+                "question_id": 115,
+                "question": "This author wrote Wuthering Heights.",
+                "user_answer": "bronte",
+                "correct_answer": "Emily Bront\u00eb",
+                "was_correct": true,
+                "category": "Literature"
+            },
+            {
+                "question_id": 279,
+                "question": "The Constitution requires a U.S. senator to be at least this many years old.",
+                "user_answer": "30",
+                "correct_answer": "30",
+                "was_correct": true,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 140,
+                "question": "This scientist developed an oral polio vaccine.",
+                "user_answer": "",
+                "correct_answer": "Albert Sabin",
+                "was_correct": false,
+                "category": "Science"
+            },
+            {
+                "question_id": 57,
+                "question": "This president was in office when the Berlin Wall fell.",
+                "user_answer": "bush",
+                "correct_answer": "George H. W. Bush",
+                "was_correct": true,
+                "category": "History"
+            },
+            {
+                "question_id": 223,
+                "question": "This word for a newly coined term or expression comes from Greek roots meaning 'new' and 'word'.",
+                "user_answer": "",
+                "correct_answer": "neologism",
+                "was_correct": false,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 35,
+                "question": "This Shakespeare play features the characters Puck, Oberon, and Titania.",
+                "user_answer": "a midsummer night's dream",
+                "correct_answer": "A Midsummer Night's Dream",
+                "was_correct": true,
+                "category": "Shakespeare"
+            },
+            {
+                "question_id": 209,
+                "question": "A word that is spelled the same as another word but has a different meaning, like 'bat' the animal and 'bat' used in baseball, is this.",
+                "user_answer": "homonym",
+                "correct_answer": "homonym",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 178,
+                "question": "This playwright wrote The Importance of Being Earnest.",
+                "user_answer": "oscar wilde",
+                "correct_answer": "Oscar Wilde",
+                "was_correct": true,
+                "category": "Theatre"
+            },
+            {
+                "question_id": 37,
+                "question": "This Shakespeare character says, 'To be, or not to be.'",
+                "user_answer": "hamlet",
+                "correct_answer": "Hamlet",
+                "was_correct": true,
+                "category": "Shakespeare"
+            }
+        ]
+    },
+    {
+        "date": "2026-10-15T16:59:20",
+        "score": 6,
+        "total_questions": 10,
+        "accuracy": 60,
+        "display_mode": "Practice",
+        "difficulty_mode": "All",
+        "category_filter": "All",
+        "missed_question_ids": [
+            149,
+            201,
+            268,
+            96
+        ],
+        "results": [
+            {
+                "question_id": 208,
+                "question": "Meaning 'one' or 'single', this prefix appears in monologue, monopoly, and monotheism.",
+                "user_answer": "mono",
+                "correct_answer": "mono",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 277,
+                "question": "A presidential veto can be overridden by this fraction of both houses of Congress.",
+                "user_answer": "two thirds",
+                "correct_answer": "two-thirds",
+                "was_correct": true,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 149,
+                "question": "This author wrote Paradise Lost.",
+                "user_answer": "dunne",
+                "correct_answer": "John Milton",
+                "was_correct": false,
+                "category": "Literature"
+            },
+            {
+                "question_id": 213,
+                "question": "This term means a word formed from the first letters of a phrase, like NASA or SCUBA.",
+                "user_answer": "acronym",
+                "correct_answer": "acronym",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 242,
+                "question": "This president issued the Emancipation Proclamation during the Civil War.",
+                "user_answer": "lincoln",
+                "correct_answer": "Abraham Lincoln",
+                "was_correct": true,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 244,
+                "question": "This president resigned from office in 1974 during the Watergate scandal.",
+                "user_answer": "nixon",
+                "correct_answer": "Richard Nixon",
+                "was_correct": true,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 201,
+                "question": "This word describes a word that imitates the sound it names, like 'buzz' or 'clang'.",
+                "user_answer": "onomatopeoia",
+                "correct_answer": "onomatopoeia",
+                "was_correct": false,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 112,
+                "question": "This author wrote To Kill a Mockingbird.",
+                "user_answer": "harper lee",
+                "correct_answer": "Harper Lee",
+                "was_correct": true,
+                "category": "Literature"
+            },
+            {
+                "question_id": 268,
+                "question": "This Cabinet official is traditionally fourth in the presidential line of succession, after the vice president and congressional leaders.",
+                "user_answer": "secretary of the state",
+                "correct_answer": "Secretary of State",
+                "was_correct": false,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 96,
+                "question": "This philosopher was sentenced to death in Athens and drank hemlock.",
+                "user_answer": "aristotle",
+                "correct_answer": "Socrates",
+                "was_correct": false,
+                "category": "Philosophy"
+            }
+        ]
+    },
+    {
+        "date": "2026-10-15T17:00:32",
+        "score": 8,
+        "total_questions": 10,
+        "accuracy": 80,
+        "display_mode": "Practice",
+        "difficulty_mode": "All",
+        "category_filter": "All",
+        "missed_question_ids": [
+            276,
+            136
+        ],
+        "results": [
+            {
+                "question_id": 17,
+                "question": "This river runs through London.",
+                "user_answer": "thames",
+                "correct_answer": "Thames",
+                "was_correct": true,
+                "category": "Geography"
+            },
+            {
+                "question_id": 7,
+                "question": "This biblical figure was swallowed by a great fish.",
+                "user_answer": "jonah",
+                "correct_answer": "Jonah",
+                "was_correct": true,
+                "category": "Bible"
+            },
+            {
+                "question_id": 158,
+                "question": "This musical by Lin-Manuel Miranda is about one of America's Founding Fathers.",
+                "user_answer": "hamilton",
+                "correct_answer": "Hamilton",
+                "was_correct": true,
+                "category": "Theatre"
+            },
+            {
+                "question_id": 252,
+                "question": "Before becoming president, this man served as governor of California and was a Hollywood actor.",
+                "user_answer": "reagan",
+                "correct_answer": "Ronald Reagan",
+                "was_correct": true,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 149,
+                "question": "This author wrote Paradise Lost.",
+                "user_answer": "milton",
+                "correct_answer": "John Milton",
+                "was_correct": true,
+                "category": "Literature"
+            },
+            {
+                "question_id": 276,
+                "question": "This body formally elects the president and vice president of the United States.",
+                "user_answer": "electoral collegew",
+                "correct_answer": "Electoral College",
+                "was_correct": false,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 80,
+                "question": "This ancient Greek philosopher was the teacher of Aristotle.",
+                "user_answer": "plato",
+                "correct_answer": "Plato",
+                "was_correct": true,
+                "category": "Philosophy"
+            },
+            {
+                "question_id": 229,
+                "question": "This figure of speech uses deliberate exaggeration for effect, as in 'I've told you a million times'.",
+                "user_answer": "exaggeration",
+                "correct_answer": "hyperbole",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 136,
+                "question": "This composer wrote the opera Fidelio.",
+                "user_answer": "sibelius",
+                "correct_answer": "Beethoven",
+                "was_correct": false,
+                "category": "Classical Music"
+            },
+            {
+                "question_id": 63,
+                "question": "The chemical symbol Au stands for this element.",
+                "user_answer": "gold",
+                "correct_answer": "Gold",
+                "was_correct": true,
+                "category": "Science"
+            }
+        ]
+    },
+    {
+        "date": "2026-10-15T17:01:22",
+        "score": 8,
+        "total_questions": 10,
+        "accuracy": 80,
+        "display_mode": "Practice",
+        "difficulty_mode": "All",
+        "category_filter": "All",
+        "missed_question_ids": [
+            184,
+            138
+        ],
+        "results": [
+            {
+                "question_id": 205,
+                "question": "Meaning 'bad' or 'evil', this Latin root appears in malicious, malady, and malfunction.",
+                "user_answer": "mal",
+                "correct_answer": "mal",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 64,
+                "question": "The chemical symbol Fe stands for this element.",
+                "user_answer": "iron",
+                "correct_answer": "Iron",
+                "was_correct": true,
+                "category": "Science"
+            },
+            {
+                "question_id": 213,
+                "question": "This term means a word formed from the first letters of a phrase, like NASA or SCUBA.",
+                "user_answer": "acronym",
+                "correct_answer": "acronym",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 62,
+                "question": "This scientist formulated the laws of motion and universal gravitation.",
+                "user_answer": "newton",
+                "correct_answer": "Isaac Newton",
+                "was_correct": true,
+                "category": "Science"
+            },
+            {
+                "question_id": 157,
+                "question": "This musical features Eva Per\u00f3n.",
+                "user_answer": "evita",
+                "correct_answer": "Evita",
+                "was_correct": true,
+                "category": "Theatre"
+            },
+            {
+                "question_id": 161,
+                "question": "This number is the only even prime number.",
+                "user_answer": "2",
+                "correct_answer": "2",
+                "was_correct": true,
+                "category": "Math"
+            },
+            {
+                "question_id": 184,
+                "question": "This Chinese leader proclaimed the People's Republic of China in 1949.",
+                "user_answer": "shang kai shek",
+                "correct_answer": "Mao Zedong",
+                "was_correct": false,
+                "category": "World History"
+            },
+            {
+                "question_id": 138,
+                "question": "This composer wrote The Moldau.",
+                "user_answer": "",
+                "correct_answer": "Bedrich Smetana",
+                "was_correct": false,
+                "category": "Classical Music"
+            },
+            {
+                "question_id": 35,
+                "question": "This Shakespeare play features the characters Puck, Oberon, and Titania.",
+                "user_answer": "a midsummer night's dream",
+                "correct_answer": "A Midsummer Night's Dream",
+                "was_correct": true,
+                "category": "Shakespeare"
+            },
+            {
+                "question_id": 181,
+                "question": "This wall began falling in 1989, symbolizing the end of the Cold War.",
+                "user_answer": "berlin wall",
+                "correct_answer": "Berlin Wall",
+                "was_correct": true,
+                "category": "World History"
+            }
+        ]
+    },
+    {
+        "date": "2026-10-15T17:02:02",
+        "score": 10,
+        "total_questions": 10,
+        "accuracy": 100,
+        "display_mode": "Practice",
+        "difficulty_mode": "All",
+        "category_filter": "All",
+        "missed_question_ids": [],
+        "results": [
+            {
+                "question_id": 66,
+                "question": "This biblical figure survived a den of lions.",
+                "user_answer": "daniel",
+                "correct_answer": "Daniel",
+                "was_correct": true,
+                "category": "Bible"
+            },
+            {
+                "question_id": 24,
+                "question": "The chemical symbol Pb stands for this element.",
+                "user_answer": "lead",
+                "correct_answer": "Lead",
+                "was_correct": true,
+                "category": "Science"
+            },
+            {
+                "question_id": 213,
+                "question": "This term means a word formed from the first letters of a phrase, like NASA or SCUBA.",
+                "user_answer": "acronym",
+                "correct_answer": "acronym",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 234,
+                "question": "This 14-line poetic form is associated with Shakespeare, Petrarch, and strict rhyme schemes.",
+                "user_answer": "sonnet",
+                "correct_answer": "sonnet",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 59,
+                "question": "This man is credited with discovering penicillin.",
+                "user_answer": "fleming",
+                "correct_answer": "Alexander Fleming",
+                "was_correct": true,
+                "category": "Science"
+            },
+            {
+                "question_id": 102,
+                "question": "This Norwegian artist painted The Scream.",
+                "user_answer": "munch",
+                "correct_answer": "Edvard Munch",
+                "was_correct": true,
+                "category": "Art"
+            },
+            {
+                "question_id": 242,
+                "question": "This president issued the Emancipation Proclamation during the Civil War.",
+                "user_answer": "lincoln",
+                "correct_answer": "Abraham Lincoln",
+                "was_correct": true,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 43,
+                "question": "This author wrote The Old Man and the Sea.",
+                "user_answer": "hemingway",
+                "correct_answer": "Ernest Hemingway",
+                "was_correct": true,
+                "category": "Literature"
+            },
+            {
+                "question_id": 203,
+                "question": "This suffix meaning 'the study of' appears in biology, geology, and theology.",
+                "user_answer": "ology",
+                "correct_answer": "ology",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 31,
+                "question": "This Greek goddess of wisdom is the Roman Minerva.",
+                "user_answer": "athena",
+                "correct_answer": "Athena",
+                "was_correct": true,
+                "category": "Mythology"
+            }
+        ]
+    },
+    {
+        "date": "2026-10-15T17:04:01",
+        "score": 7,
+        "total_questions": 10,
+        "accuracy": 70,
+        "display_mode": "Practice",
+        "difficulty_mode": "All",
+        "category_filter": "All",
+        "missed_question_ids": [
+            146,
+            106,
+            100
+        ],
+        "results": [
+            {
+                "question_id": 29,
+                "question": "This composer wrote The Four Seasons.",
+                "user_answer": "vivaldi",
+                "correct_answer": "Vivaldi",
+                "was_correct": true,
+                "category": "Classical Music"
+            },
+            {
+                "question_id": 76,
+                "question": "This artist painted the ceiling of the Sistine Chapel.",
+                "user_answer": "michelangelo",
+                "correct_answer": "Michelangelo",
+                "was_correct": true,
+                "category": "Art"
+            },
+            {
+                "question_id": 171,
+                "question": "This value is the square root of 144.",
+                "user_answer": "12",
+                "correct_answer": "12",
+                "was_correct": true,
+                "category": "Math"
+            },
+            {
+                "question_id": 158,
+                "question": "This musical by Lin-Manuel Miranda is about one of America's Founding Fathers.",
+                "user_answer": "hamilton",
+                "correct_answer": "Hamilton",
+                "was_correct": true,
+                "category": "Theatre"
+            },
+            {
+                "question_id": 146,
+                "question": "This scientist's name is attached to the periodic table.",
+                "user_answer": "dewey",
+                "correct_answer": "Dmitri Mendeleev",
+                "was_correct": false,
+                "category": "Science"
+            },
+            {
+                "question_id": 106,
+                "question": "This Shakespeare play features the witches' line 'Double, double toil and trouble.'",
+                "user_answer": "",
+                "correct_answer": "Macbeth",
+                "was_correct": false,
+                "category": "Shakespeare"
+            },
+            {
+                "question_id": 38,
+                "question": "This Shakespeare play is set largely in Verona and features Mercutio.",
+                "user_answer": "romeo and juliet",
+                "correct_answer": "Romeo and Juliet",
+                "was_correct": true,
+                "category": "Shakespeare"
+            },
+            {
+                "question_id": 173,
+                "question": "This musical features the Phantom and Christine.",
+                "user_answer": "phantom of the opera",
+                "correct_answer": "The Phantom of the Opera",
+                "was_correct": true,
+                "category": "Theatre"
+            },
+            {
+                "question_id": 125,
+                "question": "This 1066 battle marked the Norman conquest of England.",
+                "user_answer": "battle of hastings",
+                "correct_answer": "Battle of Hastings",
+                "was_correct": true,
+                "category": "World History"
+            },
+            {
+                "question_id": 100,
+                "question": "This philosopher said, 'I think, therefore I am.'",
+                "user_answer": "plato",
+                "correct_answer": "Ren\u00e9 Descartes",
+                "was_correct": false,
+                "category": "Philosophy"
+            }
+        ]
+    },
+    {
+        "date": "2026-10-16T09:46:59",
+        "score": 8,
+        "total_questions": 10,
+        "accuracy": 80,
+        "display_mode": "Practice",
+        "difficulty_mode": "All",
+        "category_filter": "All",
+        "missed_question_ids": [
+            87,
+            123
+        ],
+        "results": [
+            {
+                "question_id": 188,
+                "question": "This Carthaginian general crossed the Alps with elephants.",
+                "user_answer": "hannibal",
+                "correct_answer": "Hannibal",
+                "was_correct": true,
+                "category": "World History"
+            },
+            {
+                "question_id": 13,
+                "question": "This Shakespeare play features Shylock and Portia.",
+                "user_answer": "merchant of venice",
+                "correct_answer": "The Merchant of Venice",
+                "was_correct": true,
+                "category": "Shakespeare"
+            },
+            {
+                "question_id": 244,
+                "question": "This president resigned from office in 1974 during the Watergate scandal.",
+                "user_answer": "nixon",
+                "correct_answer": "Richard Nixon",
+                "was_correct": true,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 87,
+                "question": "This opera by Puccini features the singer Floria Tosca.",
+                "user_answer": "madama butterfly",
+                "correct_answer": "Tosca",
+                "was_correct": false,
+                "category": "Opera"
+            },
+            {
+                "question_id": 115,
+                "question": "This author wrote Wuthering Heights.",
+                "user_answer": "bronte",
+                "correct_answer": "Emily Bront\u00eb",
+                "was_correct": true,
+                "category": "Literature"
+            },
+            {
+                "question_id": 14,
+                "question": "This Shakespeare character has daughters named Goneril, Regan, and Cordelia.",
+                "user_answer": "king lear",
+                "correct_answer": "King Lear",
+                "was_correct": true,
+                "category": "Shakespeare"
+            },
+            {
+                "question_id": 82,
+                "question": "This biblical giant was defeated by David.",
+                "user_answer": "goliath",
+                "correct_answer": "Goliath",
+                "was_correct": true,
+                "category": "Bible"
+            },
+            {
+                "question_id": 59,
+                "question": "This man is credited with discovering penicillin.",
+                "user_answer": "fleming",
+                "correct_answer": "Alexander Fleming",
+                "was_correct": true,
+                "category": "Science"
+            },
+            {
+                "question_id": 123,
+                "question": "This Austrian statesman was a major figure at the Congress of Vienna.",
+                "user_answer": "menneril",
+                "correct_answer": "Metternich",
+                "was_correct": false,
+                "category": "World History"
+            },
+            {
+                "question_id": 72,
+                "question": "This composer is associated with the Ring Cycle.",
+                "user_answer": "wagner",
+                "correct_answer": "Wagner",
+                "was_correct": true,
+                "category": "Opera"
+            }
+        ]
+    },
+    {
+        "date": "2026-10-16T09:48:07",
+        "score": 7,
+        "total_questions": 10,
+        "accuracy": 70,
+        "display_mode": "Practice",
+        "difficulty_mode": "All",
+        "category_filter": "All",
+        "missed_question_ids": [
+            143,
+            233,
+            229
+        ],
+        "results": [
+            {
+                "question_id": 32,
+                "question": "This Greek messenger god is the Roman Mercury.",
+                "user_answer": "hermes",
+                "correct_answer": "Hermes",
+                "was_correct": true,
+                "category": "Mythology"
+            },
+            {
+                "question_id": 186,
+                "question": "This queen of France was executed during the French Revolution.",
+                "user_answer": "marie antoinette",
+                "correct_answer": "Marie Antoinette",
+                "was_correct": true,
+                "category": "World History"
+            },
+            {
+                "question_id": 161,
+                "question": "This number is the only even prime number.",
+                "user_answer": "2",
+                "correct_answer": "2",
+                "was_correct": true,
+                "category": "Math"
+            },
+            {
+                "question_id": 143,
+                "question": "This scientist proposed the laws of planetary motion.",
+                "user_answer": "gailileo",
+                "correct_answer": "Johannes Kepler",
+                "was_correct": false,
+                "category": "Science"
+            },
+            {
+                "question_id": 110,
+                "question": "This Shakespeare tragedy features Desdemona.",
+                "user_answer": "othello",
+                "correct_answer": "Othello",
+                "was_correct": true,
+                "category": "Shakespeare"
+            },
+            {
+                "question_id": 233,
+                "question": "In poetry, this five-foot meter with an unstressed-stressed rhythm is strongly associated with Shakespeare.",
+                "user_answer": "sonnet",
+                "correct_answer": "iambic pentameter",
+                "was_correct": false,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 35,
+                "question": "This Shakespeare play features the characters Puck, Oberon, and Titania.",
+                "user_answer": "a midsummer night's dream",
+                "correct_answer": "A Midsummer Night's Dream",
+                "was_correct": true,
+                "category": "Shakespeare"
+            },
+            {
+                "question_id": 229,
+                "question": "This figure of speech uses deliberate exaggeration for effect, as in 'I've told you a million times'.",
+                "user_answer": "",
+                "correct_answer": "hyperbole",
+                "was_correct": false,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 14,
+                "question": "This Shakespeare character has daughters named Goneril, Regan, and Cordelia.",
+                "user_answer": "king lear",
+                "correct_answer": "King Lear",
+                "was_correct": true,
+                "category": "Shakespeare"
+            },
+            {
+                "question_id": 10,
+                "question": "This composer wrote The Magic Flute.",
+                "user_answer": "mozart",
+                "correct_answer": "Mozart",
+                "was_correct": true,
+                "category": "Classical Music"
+            }
+        ]
+    },
+    {
+        "date": "2026-10-16T09:49:27",
+        "score": 7,
+        "total_questions": 10,
+        "accuracy": 70,
+        "display_mode": "Practice",
+        "difficulty_mode": "All",
+        "category_filter": "All",
+        "missed_question_ids": [
+            265,
+            135,
+            40
+        ],
+        "results": [
+            {
+                "question_id": 270,
+                "question": "This 1954 Supreme Court decision ruled that racial segregation in public schools was unconstitutional.",
+                "user_answer": "brown v. board of education",
+                "correct_answer": "Brown v. Board of Education",
+                "was_correct": true,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 179,
+                "question": "This playwright wrote A Doll's House and Hedda Gabler.",
+                "user_answer": "ibsen",
+                "correct_answer": "Henrik Ibsen",
+                "was_correct": true,
+                "category": "Theatre"
+            },
+            {
+                "question_id": 265,
+                "question": "The vice president serves as president of this chamber of Congress.",
+                "user_answer": "treasury",
+                "correct_answer": "Senate",
+                "was_correct": false,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 135,
+                "question": "This composer wrote The Rite of Spring.",
+                "user_answer": "beethoven",
+                "correct_answer": "Igor Stravinsky",
+                "was_correct": false,
+                "category": "Classical Music"
+            },
+            {
+                "question_id": 45,
+                "question": "This river runs through Rome.",
+                "user_answer": "tiber",
+                "correct_answer": "Tiber",
+                "was_correct": true,
+                "category": "Geography"
+            },
+            {
+                "question_id": 40,
+                "question": "This author wrote Brave New World.",
+                "user_answer": "orwell",
+                "correct_answer": "Aldous Huxley",
+                "was_correct": false,
+                "category": "Literature"
+            },
+            {
+                "question_id": 113,
+                "question": "This author wrote The Great Gatsby.",
+                "user_answer": "fitzgerald",
+                "correct_answer": "F. Scott Fitzgerald",
+                "was_correct": true,
+                "category": "Literature"
+            },
+            {
+                "question_id": 18,
+                "question": "This mountain range separates France and Spain.",
+                "user_answer": "pyrenees",
+                "correct_answer": "Pyrenees",
+                "was_correct": true,
+                "category": "Geography"
+            },
+            {
+                "question_id": 148,
+                "question": "This author wrote Don Quixote.",
+                "user_answer": "cervantes",
+                "correct_answer": "Miguel de Cervantes",
+                "was_correct": true,
+                "category": "Literature"
+            },
+            {
+                "question_id": 27,
+                "question": "This treaty ended World War I.",
+                "user_answer": "treaty of versailles",
+                "correct_answer": "Treaty of Versailles",
+                "was_correct": true,
+                "category": "History"
+            }
+        ]
+    },
+    {
+        "date": "2026-10-16T14:34:13",
+        "score": 8,
+        "total_questions": 10,
+        "accuracy": 80,
+        "display_mode": "Practice",
+        "difficulty_mode": "All",
+        "category_filter": "All",
+        "missed_question_ids": [
+            180,
+            197
+        ],
+        "results": [
+            {
+                "question_id": 14,
+                "question": "This Shakespeare character has daughters named Goneril, Regan, and Cordelia.",
+                "user_answer": "king lear",
+                "correct_answer": "King Lear",
+                "was_correct": true,
+                "category": "Shakespeare"
+            },
+            {
+                "question_id": 180,
+                "question": "This playwright wrote Pygmalion.",
+                "user_answer": "",
+                "correct_answer": "George Bernard Shaw",
+                "was_correct": false,
+                "category": "Theatre"
+            },
+            {
+                "question_id": 149,
+                "question": "This author wrote Paradise Lost.",
+                "user_answer": "milton",
+                "correct_answer": "John Milton",
+                "was_correct": true,
+                "category": "Literature"
+            },
+            {
+                "question_id": 5,
+                "question": "This river runs through Paris.",
+                "user_answer": "seine",
+                "correct_answer": "Seine",
+                "was_correct": true,
+                "category": "Geography"
+            },
+            {
+                "question_id": 154,
+                "question": "This author wrote Anna Karenina and War and Peace.",
+                "user_answer": "tolstoy",
+                "correct_answer": "Leo Tolstoy",
+                "was_correct": true,
+                "category": "Literature"
+            },
+            {
+                "question_id": 43,
+                "question": "This author wrote The Old Man and the Sea.",
+                "user_answer": "hemingway",
+                "correct_answer": "Ernest Hemingway",
+                "was_correct": true,
+                "category": "Literature"
+            },
+            {
+                "question_id": 22,
+                "question": "This biblical figure interpreted dreams in Egypt and owned a coat of many colors.",
+                "user_answer": "joseph",
+                "correct_answer": "Joseph",
+                "was_correct": true,
+                "category": "Bible"
+            },
+            {
+                "question_id": 197,
+                "question": "This Greek hero killed Medusa.",
+                "user_answer": "odysseyus",
+                "correct_answer": "Perseus",
+                "was_correct": false,
+                "category": "Mythology"
+            },
+            {
+                "question_id": 171,
+                "question": "This value is the square root of 144.",
+                "user_answer": "12",
+                "correct_answer": "12",
+                "was_correct": true,
+                "category": "Math"
+            },
+            {
+                "question_id": 90,
+                "question": "This opera by Bizet features the toreador Escamillo.",
+                "user_answer": "carmen",
+                "correct_answer": "Carmen",
+                "was_correct": true,
+                "category": "Opera"
+            }
+        ]
+    },
+    {
+        "date": "2026-10-16T14:49:48",
+        "score": 7,
+        "total_questions": 10,
+        "accuracy": 70,
+        "display_mode": "Practice",
+        "difficulty_mode": "All",
+        "category_filter": "All",
+        "missed_question_ids": [
+            256,
+            100,
+            34
+        ],
+        "results": [
+            {
+                "question_id": 194,
+                "question": "This Mozart opera features Papageno and the Queen of the Night.",
+                "user_answer": "magic flute",
+                "correct_answer": "The Magic Flute",
+                "was_correct": true,
+                "category": "Opera"
+            },
+            {
+                "question_id": 224,
+                "question": "This term means a mild or indirect word substituted for one considered too harsh, as 'passed away' for 'died'.",
+                "user_answer": "euphemism",
+                "correct_answer": "euphemism",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 272,
+                "question": "This Supreme Court case led to the warning police give suspects about their rights before custodial interrogation.",
+                "user_answer": "miranda",
+                "correct_answer": "Miranda v. Arizona",
+                "was_correct": true,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 74,
+                "question": "This painter created The Persistence of Memory.",
+                "user_answer": "dali",
+                "correct_answer": "Salvador Dal\u00ed",
+                "was_correct": true,
+                "category": "Art"
+            },
+            {
+                "question_id": 130,
+                "question": "This Mongol leader founded one of history's largest empires.",
+                "user_answer": "genghis khan",
+                "correct_answer": "Genghis Khan",
+                "was_correct": true,
+                "category": "World History"
+            },
+            {
+                "question_id": 256,
+                "question": "This amendment abolished slavery in the United States.",
+                "user_answer": "19th",
+                "correct_answer": "13th Amendment",
+                "was_correct": false,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 100,
+                "question": "This philosopher said, 'I think, therefore I am.'",
+                "user_answer": "plato",
+                "correct_answer": "Ren\u00e9 Descartes",
+                "was_correct": false,
+                "category": "Philosophy"
+            },
+            {
+                "question_id": 34,
+                "question": "This Titan is often shown holding up the heavens.",
+                "user_answer": "apollo",
+                "correct_answer": "Atlas",
+                "was_correct": false,
+                "category": "Mythology"
+            },
+            {
+                "question_id": 206,
+                "question": "Meaning 'all', this root appears in omnipotent, omnivore, and omnibus.",
+                "user_answer": "omni",
+                "correct_answer": "omni",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 27,
+                "question": "This treaty ended World War I.",
+                "user_answer": "versailles",
+                "correct_answer": "Treaty of Versailles",
+                "was_correct": true,
+                "category": "History"
+            }
+        ]
+    },
+    {
+        "date": "2026-10-16T14:54:26",
+        "score": 7,
+        "total_questions": 10,
+        "accuracy": 70,
+        "display_mode": "Practice",
+        "difficulty_mode": "All",
+        "category_filter": "All",
+        "missed_question_ids": [
+            257,
+            260,
+            231
+        ],
+        "results": [
+            {
+                "question_id": 10,
+                "question": "This composer wrote The Magic Flute.",
+                "user_answer": "mozart",
+                "correct_answer": "Mozart",
+                "was_correct": true,
+                "category": "Classical Music"
+            },
+            {
+                "question_id": 255,
+                "question": "This president was the only U.S. president to serve two nonconsecutive terms before Donald Trump.",
+                "user_answer": "cleveland",
+                "correct_answer": "Grover Cleveland",
+                "was_correct": true,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 26,
+                "question": "This Roman goddess is the equivalent of the Greek goddess Aphrodite.",
+                "user_answer": "venus",
+                "correct_answer": "Venus",
+                "was_correct": true,
+                "category": "Mythology"
+            },
+            {
+                "question_id": 257,
+                "question": "This amendment guarantees equal protection under the law and defines U.S. citizenship.",
+                "user_answer": "",
+                "correct_answer": "14th Amendment",
+                "was_correct": false,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 260,
+                "question": "This amendment limits a president to two elected terms.",
+                "user_answer": "15th",
+                "correct_answer": "22nd Amendment",
+                "was_correct": false,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 207,
+                "question": "Meaning 'many', this Greek-derived prefix appears in polygon, polyglot, and polytheism.",
+                "user_answer": "poly",
+                "correct_answer": "poly",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 231,
+                "question": "This term describes repeated vowel sounds, as in the long 'o' sound in 'go slow over the road'.",
+                "user_answer": "dipthet",
+                "correct_answer": "assonance",
+                "was_correct": false,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 140,
+                "question": "This scientist developed an oral polio vaccine.",
+                "user_answer": "sabin",
+                "correct_answer": "Albert Sabin",
+                "was_correct": true,
+                "category": "Science"
+            },
+            {
+                "question_id": 188,
+                "question": "This Carthaginian general crossed the Alps with elephants.",
+                "user_answer": "hannibal",
+                "correct_answer": "Hannibal",
+                "was_correct": true,
+                "category": "World History"
+            },
+            {
+                "question_id": 171,
+                "question": "This value is the square root of 144.",
+                "user_answer": "12",
+                "correct_answer": "12",
+                "was_correct": true,
+                "category": "Math"
+            }
+        ]
+    },
+    {
+        "date": "2026-10-16T14:56:13",
+        "score": 8,
+        "total_questions": 10,
+        "accuracy": 80,
+        "display_mode": "Practice",
+        "difficulty_mode": "All",
+        "category_filter": "All",
+        "missed_question_ids": [
+            192,
+            109
+        ],
+        "results": [
+            {
+                "question_id": 170,
+                "question": "This sequence begins 0, 1, 1, 2, 3, 5, 8.",
+                "user_answer": "fibonacci",
+                "correct_answer": "Fibonacci sequence",
+                "was_correct": true,
+                "category": "Math"
+            },
+            {
+                "question_id": 97,
+                "question": "This philosopher was a student of Plato and tutor to Alexander the Great.",
+                "user_answer": "aristotle",
+                "correct_answer": "Aristotle",
+                "was_correct": true,
+                "category": "Philosophy"
+            },
+            {
+                "question_id": 208,
+                "question": "Meaning 'one' or 'single', this prefix appears in monologue, monopoly, and monotheism.",
+                "user_answer": "mono",
+                "correct_answer": "mono",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 192,
+                "question": "This Verdi opera features the aria 'La donna \u00e8 mobile.'",
+                "user_answer": "aida",
+                "correct_answer": "Rigoletto",
+                "was_correct": false,
+                "category": "Opera"
+            },
+            {
+                "question_id": 175,
+                "question": "This musical features Tevye and the song 'If I Were a Rich Man.'",
+                "user_answer": "fiddler on the roof",
+                "correct_answer": "Fiddler on the Roof",
+                "was_correct": true,
+                "category": "Theatre"
+            },
+            {
+                "question_id": 109,
+                "question": "This Shakespeare play features Beatrice and Benedick.",
+                "user_answer": "othello",
+                "correct_answer": "Much Ado About Nothing",
+                "was_correct": false,
+                "category": "Shakespeare"
+            },
+            {
+                "question_id": 241,
+                "question": "He was the first president of the United States.",
+                "user_answer": "washington",
+                "correct_answer": "George Washington",
+                "was_correct": true,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 6,
+                "question": "This author created Elizabeth Bennet and Mr. Darcy.",
+                "user_answer": "austen",
+                "correct_answer": "Jane Austen",
+                "was_correct": true,
+                "category": "Literature"
+            },
+            {
+                "question_id": 238,
+                "question": "This term means a word created by combining parts of two other words, like brunch from breakfast and lunch.",
+                "user_answer": "portmanteau",
+                "correct_answer": "portmanteau",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 165,
+                "question": "This Roman numeral represents 50.",
+                "user_answer": "l",
+                "correct_answer": "L",
+                "was_correct": true,
+                "category": "Math"
+            }
+        ]
+    },
+    {
+        "date": "2026-10-16T14:57:32",
+        "score": 7,
+        "total_questions": 10,
+        "accuracy": 70,
+        "display_mode": "Practice",
+        "difficulty_mode": "All",
+        "category_filter": "All",
+        "missed_question_ids": [
+            264,
+            142,
+            226
+        ],
+        "results": [
+            {
+                "question_id": 14,
+                "question": "This Shakespeare character has daughters named Goneril, Regan, and Cordelia.",
+                "user_answer": "king lear",
+                "correct_answer": "King Lear",
+                "was_correct": true,
+                "category": "Shakespeare"
+            },
+            {
+                "question_id": 109,
+                "question": "This Shakespeare play features Beatrice and Benedick.",
+                "user_answer": "much ado about nothing",
+                "correct_answer": "Much Ado About Nothing",
+                "was_correct": true,
+                "category": "Shakespeare"
+            },
+            {
+                "question_id": 264,
+                "question": "This article of the Constitution establishes the judicial branch.",
+                "user_answer": "",
+                "correct_answer": "Article III",
+                "was_correct": false,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 142,
+                "question": "This scientist is associated with the uncertainty principle.",
+                "user_answer": "murphy",
+                "correct_answer": "Werner Heisenberg",
+                "was_correct": false,
+                "category": "Science"
+            },
+            {
+                "question_id": 208,
+                "question": "Meaning 'one' or 'single', this prefix appears in monologue, monopoly, and monotheism.",
+                "user_answer": "mono",
+                "correct_answer": "mono",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 217,
+                "question": "This punctuation mark can join two closely related independent clauses; it is stronger than a comma but weaker than a period.",
+                "user_answer": "semicolon",
+                "correct_answer": "semicolon",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 226,
+                "question": "This figure of speech directly compares two unlike things using 'like' or 'as'.",
+                "user_answer": "conjunction",
+                "correct_answer": "simile",
+                "was_correct": false,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 155,
+                "question": "This musical features Jean Valjean and Javert.",
+                "user_answer": "les miserables",
+                "correct_answer": "Les Mis\u00e9rables",
+                "was_correct": true,
+                "category": "Theatre"
+            },
+            {
+                "question_id": 147,
+                "question": "This author wrote The Divine Comedy.",
+                "user_answer": "dante",
+                "correct_answer": "Dante Alighieri",
+                "was_correct": true,
+                "category": "Literature"
+            },
+            {
+                "question_id": 220,
+                "question": "In grammar, a word that modifies a verb, adjective, or another word of the same type is called this.",
+                "user_answer": "adverb",
+                "correct_answer": "adverb",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            }
+        ]
+    },
+    {
+        "date": "2026-10-16T16:15:01",
+        "score": 8,
+        "total_questions": 10,
+        "accuracy": 80,
+        "display_mode": "Practice",
+        "difficulty_mode": "All",
+        "category_filter": "All",
+        "missed_question_ids": [
+            271,
+            176
+        ],
+        "results": [
+            {
+                "question_id": 118,
+                "question": "This strait separates Spain from Morocco.",
+                "user_answer": "gibraltar",
+                "correct_answer": "Strait of Gibraltar",
+                "was_correct": true,
+                "category": "Geography"
+            },
+            {
+                "question_id": 279,
+                "question": "The Constitution requires a U.S. senator to be at least this many years old.",
+                "user_answer": "30",
+                "correct_answer": "30",
+                "was_correct": true,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 238,
+                "question": "This term means a word created by combining parts of two other words, like brunch from breakfast and lunch.",
+                "user_answer": "portmanteau",
+                "correct_answer": "portmanteau",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 32,
+                "question": "This Greek messenger god is the Roman Mercury.",
+                "user_answer": "hermes",
+                "correct_answer": "Hermes",
+                "was_correct": true,
+                "category": "Mythology"
+            },
+            {
+                "question_id": 197,
+                "question": "This Greek hero killed Medusa.",
+                "user_answer": "perseus",
+                "correct_answer": "Perseus",
+                "was_correct": true,
+                "category": "Mythology"
+            },
+            {
+                "question_id": 271,
+                "question": "This Supreme Court case established the right to an attorney for indigent criminal defendants in state courts.",
+                "user_answer": "",
+                "correct_answer": "Gideon v. Wainwright",
+                "was_correct": false,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 176,
+                "question": "This musical features the songs 'The Impossible Dream' and 'Dulcinea.'",
+                "user_answer": "don quixote",
+                "correct_answer": "Man of La Mancha",
+                "was_correct": false,
+                "category": "Theatre"
+            },
+            {
+                "question_id": 103,
+                "question": "This French artist painted Water Lilies.",
+                "user_answer": "monet",
+                "correct_answer": "Claude Monet",
+                "was_correct": true,
+                "category": "Art"
+            },
+            {
+                "question_id": 159,
+                "question": "This playwright wrote A Streetcar Named Desire and The Glass Menagerie.",
+                "user_answer": "williams",
+                "correct_answer": "Tennessee Williams",
+                "was_correct": true,
+                "category": "Theatre"
+            },
+            {
+                "question_id": 157,
+                "question": "This musical features Eva Per\u00f3n.",
+                "user_answer": "evita",
+                "correct_answer": "Evita",
+                "was_correct": true,
+                "category": "Theatre"
+            }
+        ]
+    },
+    {
+        "date": "2026-10-16T16:18:01",
+        "score": 12,
+        "total_questions": 20,
+        "accuracy": 60,
+        "display_mode": "Daily 20",
+        "difficulty_mode": "All",
+        "category_filter": "Daily 20",
+        "missed_question_ids": [
+            192,
+            95,
+            169,
+            271,
+            200,
+            229,
+            133,
+            231
+        ],
+        "results": [
+            {
+                "question_id": 236,
+                "question": "This term means a phrase whose meaning cannot be understood from the literal meanings of its words, like 'kick the bucket'.",
+                "user_answer": "idiom",
+                "correct_answer": "idiom",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 192,
+                "question": "This Verdi opera features the aria 'La donna \u00e8 mobile.'",
+                "user_answer": "aida",
+                "correct_answer": "Rigoletto",
+                "was_correct": false,
+                "category": "Opera"
+            },
+            {
+                "question_id": 128,
+                "question": "This Russian empress was also known as 'the Great.'",
+                "user_answer": "catherine the great",
+                "correct_answer": "Catherine the Great",
+                "was_correct": true,
+                "category": "World History"
+            },
+            {
+                "question_id": 226,
+                "question": "This figure of speech directly compares two unlike things using 'like' or 'as'.",
+                "user_answer": "simile",
+                "correct_answer": "simile",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 70,
+                "question": "This composer wrote The Blue Danube.",
+                "user_answer": "strauss",
+                "correct_answer": "Johann Strauss II",
+                "was_correct": true,
+                "category": "Classical Music"
+            },
+            {
+                "question_id": 74,
+                "question": "This painter created The Persistence of Memory.",
+                "user_answer": "dali",
+                "correct_answer": "Salvador Dal\u00ed",
+                "was_correct": true,
+                "category": "Art"
+            },
+            {
+                "question_id": 189,
+                "question": "This Egyptian queen was allied with Julius Caesar and Mark Antony.",
+                "user_answer": "cleopatra",
+                "correct_answer": "Cleopatra",
+                "was_correct": true,
+                "category": "World History"
+            },
+            {
+                "question_id": 90,
+                "question": "This opera by Bizet features the toreador Escamillo.",
+                "user_answer": "carmen",
+                "correct_answer": "Carmen",
+                "was_correct": true,
+                "category": "Opera"
+            },
+            {
+                "question_id": 95,
+                "question": "This composer wrote Bol\u00e9ro.",
+                "user_answer": "stravinsky",
+                "correct_answer": "Ravel",
+                "was_correct": false,
+                "category": "Classical Music"
+            },
+            {
+                "question_id": 179,
+                "question": "This playwright wrote A Doll's House and Hedda Gabler.",
+                "user_answer": "ibsen",
+                "correct_answer": "Henrik Ibsen",
+                "was_correct": true,
+                "category": "Theatre"
+            },
+            {
+                "question_id": 3,
+                "question": "This Shakespeare villain manipulates Othello into jealousy.",
+                "user_answer": "iago",
+                "correct_answer": "Iago",
+                "was_correct": true,
+                "category": "Shakespeare"
+            },
+            {
+                "question_id": 169,
+                "question": "This mathematician is associated with a theorem about right triangles.",
+                "user_answer": "euclid",
+                "correct_answer": "Pythagoras",
+                "was_correct": false,
+                "category": "Math"
+            },
+            {
+                "question_id": 163,
+                "question": "This term describes a triangle with two equal sides.",
+                "user_answer": "isosceles",
+                "correct_answer": "Isosceles",
+                "was_correct": true,
+                "category": "Math"
+            },
+            {
+                "question_id": 22,
+                "question": "This biblical figure interpreted dreams in Egypt and owned a coat of many colors.",
+                "user_answer": "joseph",
+                "correct_answer": "Joseph",
+                "was_correct": true,
+                "category": "Bible"
+            },
+            {
+                "question_id": 271,
+                "question": "This Supreme Court case established the right to an attorney for indigent criminal defendants in state courts.",
+                "user_answer": "",
+                "correct_answer": "Gideon v. Wainwright",
+                "was_correct": false,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 200,
+                "question": "This Supreme Court case protected a student's right to wear a black armband in school.",
+                "user_answer": "",
+                "correct_answer": "Tinker v. Des Moines",
+                "was_correct": false,
+                "category": "Civics"
+            },
+            {
+                "question_id": 229,
+                "question": "This figure of speech uses deliberate exaggeration for effect, as in 'I've told you a million times'.",
+                "user_answer": "",
+                "correct_answer": "hyperbole",
+                "was_correct": false,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 133,
+                "question": "This composer wrote The Planets.",
+                "user_answer": "mozart",
+                "correct_answer": "Gustav Holst",
+                "was_correct": false,
+                "category": "Classical Music"
+            },
+            {
+                "question_id": 231,
+                "question": "This term describes repeated vowel sounds, as in the long 'o' sound in 'go slow over the road'.",
+                "user_answer": "",
+                "correct_answer": "assonance",
+                "was_correct": false,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 78,
+                "question": "This philosopher is associated with natural rights and the idea of life, liberty, and property.",
+                "user_answer": "locke",
+                "correct_answer": "John Locke",
+                "was_correct": true,
+                "category": "Philosophy"
+            }
+        ]
+    },
+    {
+        "date": "2026-10-16T16:20:36",
+        "score": 16,
+        "total_questions": 20,
+        "accuracy": 80,
+        "display_mode": "Daily 20",
+        "difficulty_mode": "All",
+        "category_filter": "Daily 20",
+        "missed_question_ids": [
+            95,
+            127,
+            257,
+            143
+        ],
+        "results": [
+            {
+                "question_id": 176,
+                "question": "This musical features the songs 'The Impossible Dream' and 'Dulcinea.'",
+                "user_answer": "man of la mancha",
+                "correct_answer": "Man of La Mancha",
+                "was_correct": true,
+                "category": "Theatre"
+            },
+            {
+                "question_id": 36,
+                "question": "This Shakespeare play features Brutus and Cassius.",
+                "user_answer": "julius caesar",
+                "correct_answer": "Julius Caesar",
+                "was_correct": true,
+                "category": "Shakespeare"
+            },
+            {
+                "question_id": 185,
+                "question": "This revolution began in 1789 with events including the storming of the Bastille.",
+                "user_answer": "french revolution",
+                "correct_answer": "French Revolution",
+                "was_correct": true,
+                "category": "World History"
+            },
+            {
+                "question_id": 63,
+                "question": "The chemical symbol Au stands for this element.",
+                "user_answer": "gold",
+                "correct_answer": "Gold",
+                "was_correct": true,
+                "category": "Science"
+            },
+            {
+                "question_id": 226,
+                "question": "This figure of speech directly compares two unlike things using 'like' or 'as'.",
+                "user_answer": "simile",
+                "correct_answer": "simile",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 234,
+                "question": "This 14-line poetic form is associated with Shakespeare, Petrarch, and strict rhyme schemes.",
+                "user_answer": "sonnet",
+                "correct_answer": "sonnet",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 20,
+                "question": "This author wrote The Scarlet Letter.",
+                "user_answer": "hawthorne",
+                "correct_answer": "Nathaniel Hawthorne",
+                "was_correct": true,
+                "category": "Literature"
+            },
+            {
+                "question_id": 200,
+                "question": "This Supreme Court case protected a student's right to wear a black armband in school.",
+                "user_answer": "tinker v. des moines",
+                "correct_answer": "Tinker v. Des Moines",
+                "was_correct": true,
+                "category": "Civics"
+            },
+            {
+                "question_id": 188,
+                "question": "This Carthaginian general crossed the Alps with elephants.",
+                "user_answer": "hannibal",
+                "correct_answer": "Hannibal",
+                "was_correct": true,
+                "category": "World History"
+            },
+            {
+                "question_id": 238,
+                "question": "This term means a word created by combining parts of two other words, like brunch from breakfast and lunch.",
+                "user_answer": "portmanteau",
+                "correct_answer": "portmanteau",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 13,
+                "question": "This Shakespeare play features Shylock and Portia.",
+                "user_answer": "merchant of venice",
+                "correct_answer": "The Merchant of Venice",
+                "was_correct": true,
+                "category": "Shakespeare"
+            },
+            {
+                "question_id": 95,
+                "question": "This composer wrote Bol\u00e9ro.",
+                "user_answer": "handel",
+                "correct_answer": "Ravel",
+                "was_correct": false,
+                "category": "Classical Music"
+            },
+            {
+                "question_id": 127,
+                "question": "This Russian czar was known as 'the Great' and built St. Petersburg.",
+                "user_answer": "alexander the great",
+                "correct_answer": "Peter the Great",
+                "was_correct": false,
+                "category": "World History"
+            },
+            {
+                "question_id": 80,
+                "question": "This ancient Greek philosopher was the teacher of Aristotle.",
+                "user_answer": "plato",
+                "correct_answer": "Plato",
+                "was_correct": true,
+                "category": "Philosophy"
+            },
+            {
+                "question_id": 229,
+                "question": "This figure of speech uses deliberate exaggeration for effect, as in 'I've told you a million times'.",
+                "user_answer": "hyperbole",
+                "correct_answer": "hyperbole",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 141,
+                "question": "This woman won two Nobel Prizes and researched radioactivity.",
+                "user_answer": "marie curie",
+                "correct_answer": "Marie Curie",
+                "was_correct": true,
+                "category": "Science"
+            },
+            {
+                "question_id": 257,
+                "question": "This amendment guarantees equal protection under the law and defines U.S. citizenship.",
+                "user_answer": "22nd",
+                "correct_answer": "14th Amendment",
+                "was_correct": false,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 2,
+                "question": "This composer wrote La Boh\u00e8me.",
+                "user_answer": "puccini",
+                "correct_answer": "Puccini",
+                "was_correct": true,
+                "category": "Opera"
+            },
+            {
+                "question_id": 143,
+                "question": "This scientist proposed the laws of planetary motion.",
+                "user_answer": "gailileo",
+                "correct_answer": "Johannes Kepler",
+                "was_correct": false,
+                "category": "Science"
+            },
+            {
+                "question_id": 170,
+                "question": "This sequence begins 0, 1, 1, 2, 3, 5, 8.",
+                "user_answer": "fibonacci",
+                "correct_answer": "Fibonacci sequence",
+                "was_correct": true,
+                "category": "Math"
+            }
+        ]
+    },
+    {
+        "date": "2026-10-16T16:23:01",
+        "score": 15,
+        "total_questions": 20,
+        "accuracy": 75,
+        "display_mode": "Daily 20",
+        "difficulty_mode": "All",
+        "category_filter": "Daily 20",
+        "missed_question_ids": [
+            194,
+            218,
+            260,
+            51,
+            271
+        ],
+        "results": [
+            {
+                "question_id": 233,
+                "question": "In poetry, this five-foot meter with an unstressed-stressed rhythm is strongly associated with Shakespeare.",
+                "user_answer": "iambic pentameter",
+                "correct_answer": "iambic pentameter",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 75,
+                "question": "This artist painted the Mona Lisa.",
+                "user_answer": "da vinci",
+                "correct_answer": "Leonardo da Vinci",
+                "was_correct": true,
+                "category": "Art"
+            },
+            {
+                "question_id": 200,
+                "question": "This Supreme Court case protected a student's right to wear a black armband in school.",
+                "user_answer": "tinker v. des moines",
+                "correct_answer": "Tinker v. Des Moines",
+                "was_correct": true,
+                "category": "Civics"
+            },
+            {
+                "question_id": 194,
+                "question": "This Mozart opera features Papageno and the Queen of the Night.",
+                "user_answer": "",
+                "correct_answer": "The Magic Flute",
+                "was_correct": false,
+                "category": "Opera"
+            },
+            {
+                "question_id": 218,
+                "question": "This mark made of three dots can indicate omitted words or a trailing-off thought.",
+                "user_answer": "elipssis",
+                "correct_answer": "ellipsis",
+                "was_correct": false,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 158,
+                "question": "This musical by Lin-Manuel Miranda is about one of America's Founding Fathers.",
+                "user_answer": "hamilton",
+                "correct_answer": "Hamilton",
+                "was_correct": true,
+                "category": "Theatre"
+            },
+            {
+                "question_id": 84,
+                "question": "This biblical figure was the first man.",
+                "user_answer": "adam",
+                "correct_answer": "Adam",
+                "was_correct": true,
+                "category": "Bible"
+            },
+            {
+                "question_id": 185,
+                "question": "This revolution began in 1789 with events including the storming of the Bastille.",
+                "user_answer": "french revolution",
+                "correct_answer": "French Revolution",
+                "was_correct": true,
+                "category": "World History"
+            },
+            {
+                "question_id": 64,
+                "question": "The chemical symbol Fe stands for this element.",
+                "user_answer": "iron",
+                "correct_answer": "Iron",
+                "was_correct": true,
+                "category": "Science"
+            },
+            {
+                "question_id": 260,
+                "question": "This amendment limits a president to two elected terms.",
+                "user_answer": "22nd",
+                "correct_answer": "22nd Amendment",
+                "was_correct": false,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 62,
+                "question": "This scientist formulated the laws of motion and universal gravitation.",
+                "user_answer": "newton",
+                "correct_answer": "Isaac Newton",
+                "was_correct": true,
+                "category": "Science"
+            },
+            {
+                "question_id": 8,
+                "question": "The chemical symbol Ag stands for this element.",
+                "user_answer": "silver",
+                "correct_answer": "Silver",
+                "was_correct": true,
+                "category": "Science"
+            },
+            {
+                "question_id": 40,
+                "question": "This author wrote Brave New World.",
+                "user_answer": "huxley",
+                "correct_answer": "Aldous Huxley",
+                "was_correct": true,
+                "category": "Literature"
+            },
+            {
+                "question_id": 51,
+                "question": "This amendment ended Prohibition.",
+                "user_answer": "19th",
+                "correct_answer": "21st Amendment",
+                "was_correct": false,
+                "category": "Civics"
+            },
+            {
+                "question_id": 23,
+                "question": "The chemical symbol Hg stands for this element.",
+                "user_answer": "mercury",
+                "correct_answer": "Mercury",
+                "was_correct": true,
+                "category": "Science"
+            },
+            {
+                "question_id": 127,
+                "question": "This Russian czar was known as 'the Great' and built St. Petersburg.",
+                "user_answer": "peter the great",
+                "correct_answer": "Peter the Great",
+                "was_correct": true,
+                "category": "World History"
+            },
+            {
+                "question_id": 197,
+                "question": "This Greek hero killed Medusa.",
+                "user_answer": "perseus",
+                "correct_answer": "Perseus",
+                "was_correct": true,
+                "category": "Mythology"
+            },
+            {
+                "question_id": 214,
+                "question": "A word or phrase that reads the same forward and backward, like 'level' or 'madam', is this.",
+                "user_answer": "palindrome",
+                "correct_answer": "palindrome",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 271,
+                "question": "This Supreme Court case established the right to an attorney for indigent criminal defendants in state courts.",
+                "user_answer": "",
+                "correct_answer": "Gideon v. Wainwright",
+                "was_correct": false,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 145,
+                "question": "This astronomer proposed a heliocentric model of the solar system.",
+                "user_answer": "copernicus",
+                "correct_answer": "Nicolaus Copernicus",
+                "was_correct": true,
+                "category": "Science"
+            }
+        ]
+    },
+    {
+        "date": "2026-10-16T16:27:53",
+        "score": 17,
+        "total_questions": 20,
+        "accuracy": 85,
+        "display_mode": "Daily 20",
+        "difficulty_mode": "All",
+        "category_filter": "Daily 20",
+        "missed_question_ids": [
+            67,
+            201,
+            164
+        ],
+        "results": [
+            {
+                "question_id": 220,
+                "question": "In grammar, a word that modifies a verb, adjective, or another word of the same type is called this.",
+                "user_answer": "adverb",
+                "correct_answer": "adverb",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 65,
+                "question": "This biblical figure received the Ten Commandments.",
+                "user_answer": "moses",
+                "correct_answer": "Moses",
+                "was_correct": true,
+                "category": "Bible"
+            },
+            {
+                "question_id": 234,
+                "question": "This 14-line poetic form is associated with Shakespeare, Petrarch, and strict rhyme schemes.",
+                "user_answer": "sonnet",
+                "correct_answer": "sonnet",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 11,
+                "question": "This composer wrote Carmen.",
+                "user_answer": "bizet",
+                "correct_answer": "Bizet",
+                "was_correct": true,
+                "category": "Opera"
+            },
+            {
+                "question_id": 170,
+                "question": "This sequence begins 0, 1, 1, 2, 3, 5, 8.",
+                "user_answer": "fibonacci",
+                "correct_answer": "Fibonacci sequence",
+                "was_correct": true,
+                "category": "Math"
+            },
+            {
+                "question_id": 189,
+                "question": "This Egyptian queen was allied with Julius Caesar and Mark Antony.",
+                "user_answer": "cleopatra",
+                "correct_answer": "Cleopatra",
+                "was_correct": true,
+                "category": "World History"
+            },
+            {
+                "question_id": 67,
+                "question": "This biblical figure was known for patience after suffering great losses.",
+                "user_answer": "solomon",
+                "correct_answer": "Job",
+                "was_correct": false,
+                "category": "Bible"
+            },
+            {
+                "question_id": 179,
+                "question": "This playwright wrote A Doll's House and Hedda Gabler.",
+                "user_answer": "ibsen",
+                "correct_answer": "Henrik Ibsen",
+                "was_correct": true,
+                "category": "Theatre"
+            },
+            {
+                "question_id": 276,
+                "question": "This body formally elects the president and vice president of the United States.",
+                "user_answer": "electoral college",
+                "correct_answer": "Electoral College",
+                "was_correct": true,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 197,
+                "question": "This Greek hero killed Medusa.",
+                "user_answer": "perseus",
+                "correct_answer": "Perseus",
+                "was_correct": true,
+                "category": "Mythology"
+            },
+            {
+                "question_id": 74,
+                "question": "This painter created The Persistence of Memory.",
+                "user_answer": "dali",
+                "correct_answer": "Salvador Dal\u00ed",
+                "was_correct": true,
+                "category": "Art"
+            },
+            {
+                "question_id": 221,
+                "question": "In grammar, this part of speech connects words, phrases, or clauses; examples include 'and', 'but', and 'or'.",
+                "user_answer": "conjunction",
+                "correct_answer": "conjunction",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 78,
+                "question": "This philosopher is associated with natural rights and the idea of life, liberty, and property.",
+                "user_answer": "locke",
+                "correct_answer": "John Locke",
+                "was_correct": true,
+                "category": "Philosophy"
+            },
+            {
+                "question_id": 210,
+                "question": "A word that sounds like another word but has a different meaning, like 'flower' and 'flour', is this.",
+                "user_answer": "homophone",
+                "correct_answer": "homophone",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 125,
+                "question": "This 1066 battle marked the Norman conquest of England.",
+                "user_answer": "battle of hastings",
+                "correct_answer": "Battle of Hastings",
+                "was_correct": true,
+                "category": "World History"
+            },
+            {
+                "question_id": 201,
+                "question": "This word describes a word that imitates the sound it names, like 'buzz' or 'clang'.",
+                "user_answer": "onomatopeoia",
+                "correct_answer": "onomatopoeia",
+                "was_correct": false,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 43,
+                "question": "This author wrote The Old Man and the Sea.",
+                "user_answer": "hemingway",
+                "correct_answer": "Ernest Hemingway",
+                "was_correct": true,
+                "category": "Literature"
+            },
+            {
+                "question_id": 21,
+                "question": "This biblical king was known for his wisdom.",
+                "user_answer": "solomon",
+                "correct_answer": "Solomon",
+                "was_correct": true,
+                "category": "Bible"
+            },
+            {
+                "question_id": 159,
+                "question": "This playwright wrote A Streetcar Named Desire and The Glass Menagerie.",
+                "user_answer": "williams",
+                "correct_answer": "Tennessee Williams",
+                "was_correct": true,
+                "category": "Theatre"
+            },
+            {
+                "question_id": 164,
+                "question": "This Greek letter is commonly used to represent the ratio of a circle's circumference to its diameter.",
+                "user_answer": "omega",
+                "correct_answer": "Pi",
+                "was_correct": false,
+                "category": "Math"
+            }
+        ]
+    },
+    {
+        "date": "2026-10-16T16:35:49",
+        "score": 10,
+        "total_questions": 10,
+        "accuracy": 100,
+        "display_mode": "Practice",
+        "difficulty_mode": "All",
+        "category_filter": "All",
+        "missed_question_ids": [],
+        "results": [
+            {
+                "question_id": 66,
+                "question": "This biblical figure survived a den of lions.",
+                "user_answer": "daniel",
+                "correct_answer": "Daniel",
+                "was_correct": true,
+                "category": "Bible"
+            },
+            {
+                "question_id": 116,
+                "question": "This river runs through Baghdad.",
+                "user_answer": "tigris",
+                "correct_answer": "Tigris",
+                "was_correct": true,
+                "category": "Geography"
+            },
+            {
+                "question_id": 147,
+                "question": "This author wrote The Divine Comedy.",
+                "user_answer": "dante",
+                "correct_answer": "Dante Alighieri",
+                "was_correct": true,
+                "category": "Literature"
+            },
+            {
+                "question_id": 218,
+                "question": "This mark made of three dots can indicate omitted words or a trailing-off thought.",
+                "user_answer": "ellipsis",
+                "correct_answer": "ellipsis",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 5,
+                "question": "This river runs through Paris.",
+                "user_answer": "seine",
+                "correct_answer": "Seine",
+                "was_correct": true,
+                "category": "Geography"
+            },
+            {
+                "question_id": 197,
+                "question": "This Greek hero killed Medusa.",
+                "user_answer": "perseus",
+                "correct_answer": "Perseus",
+                "was_correct": true,
+                "category": "Mythology"
+            },
+            {
+                "question_id": 182,
+                "question": "This South African leader became president in 1994 after years imprisoned on Robben Island.",
+                "user_answer": "mandela",
+                "correct_answer": "Nelson Mandela",
+                "was_correct": true,
+                "category": "World History"
+            },
+            {
+                "question_id": 69,
+                "question": "This composer wrote Messiah.",
+                "user_answer": "handel",
+                "correct_answer": "Handel",
+                "was_correct": true,
+                "category": "Classical Music"
+            },
+            {
+                "question_id": 70,
+                "question": "This composer wrote The Blue Danube.",
+                "user_answer": "strauss",
+                "correct_answer": "Johann Strauss II",
+                "was_correct": true,
+                "category": "Classical Music"
+            },
+            {
+                "question_id": 112,
+                "question": "This author wrote To Kill a Mockingbird.",
+                "user_answer": "lee",
+                "correct_answer": "Harper Lee",
+                "was_correct": true,
+                "category": "Literature"
+            }
+        ]
+    },
+    {
+        "date": "2026-10-16T16:48:19",
+        "score": 40,
+        "total_questions": 50,
+        "accuracy": 80,
+        "display_mode": "Anytime Test",
+        "difficulty_mode": "All",
+        "category_filter": "Anytime Test",
+        "missed_question_ids": [
+            12,
+            240,
+            134,
+            1,
+            271,
+            258,
+            174,
+            121,
+            253,
+            124
+        ],
+        "results": [
+            {
+                "question_id": 220,
+                "question": "In grammar, a word that modifies a verb, adjective, or another word of the same type is called this.",
+                "user_answer": "adverb",
+                "correct_answer": "adverb",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 117,
+                "question": "This river runs through Cairo.",
+                "user_answer": "nile",
+                "correct_answer": "Nile",
+                "was_correct": true,
+                "category": "Geography"
+            },
+            {
+                "question_id": 109,
+                "question": "This Shakespeare play features Beatrice and Benedick.",
+                "user_answer": "much ado about nothing",
+                "correct_answer": "Much Ado About Nothing",
+                "was_correct": true,
+                "category": "Shakespeare"
+            },
+            {
+                "question_id": 75,
+                "question": "This artist painted the Mona Lisa.",
+                "user_answer": "da vinci",
+                "correct_answer": "Leonardo da Vinci",
+                "was_correct": true,
+                "category": "Art"
+            },
+            {
+                "question_id": 40,
+                "question": "This author wrote Brave New World.",
+                "user_answer": "huxley",
+                "correct_answer": "Aldous Huxley",
+                "was_correct": true,
+                "category": "Literature"
+            },
+            {
+                "question_id": 20,
+                "question": "This author wrote The Scarlet Letter.",
+                "user_answer": "hawthorne",
+                "correct_answer": "Nathaniel Hawthorne",
+                "was_correct": true,
+                "category": "Literature"
+            },
+            {
+                "question_id": 159,
+                "question": "This playwright wrote A Streetcar Named Desire and The Glass Menagerie.",
+                "user_answer": "williams",
+                "correct_answer": "Tennessee Williams",
+                "was_correct": true,
+                "category": "Theatre"
+            },
+            {
+                "question_id": 238,
+                "question": "This term means a word created by combining parts of two other words, like brunch from breakfast and lunch.",
+                "user_answer": "portmanteau",
+                "correct_answer": "portmanteau",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 122,
+                "question": "This 1815 meeting redrew Europe after the Napoleonic Wars.",
+                "user_answer": "congress of vienna",
+                "correct_answer": "Congress of Vienna",
+                "was_correct": true,
+                "category": "World History"
+            },
+            {
+                "question_id": 216,
+                "question": "This punctuation mark is used to join words in compounds like 'well-known' or to split words at line breaks.",
+                "user_answer": "hyphen",
+                "correct_answer": "hyphen",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 250,
+                "question": "This president launched the Great Society domestic program.",
+                "user_answer": "johnson",
+                "correct_answer": "Lyndon B. Johnson",
+                "was_correct": true,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 170,
+                "question": "This sequence begins 0, 1, 1, 2, 3, 5, 8.",
+                "user_answer": "fibonacci",
+                "correct_answer": "Fibonacci sequence",
+                "was_correct": true,
+                "category": "Math"
+            },
+            {
+                "question_id": 51,
+                "question": "This amendment ended Prohibition.",
+                "user_answer": "21st amendment",
+                "correct_answer": "21st Amendment",
+                "was_correct": true,
+                "category": "Civics"
+            },
+            {
+                "question_id": 79,
+                "question": "This philosopher wrote The Social Contract.",
+                "user_answer": "rousseau",
+                "correct_answer": "Jean-Jacques Rousseau",
+                "was_correct": true,
+                "category": "Philosophy"
+            },
+            {
+                "question_id": 12,
+                "question": "This composer wrote Aida and Rigoletto.",
+                "user_answer": "puccini",
+                "correct_answer": "Verdi",
+                "was_correct": false,
+                "category": "Opera"
+            },
+            {
+                "question_id": 255,
+                "question": "This president was the only U.S. president to serve two nonconsecutive terms before Donald Trump.",
+                "user_answer": "cleveland",
+                "correct_answer": "Grover Cleveland",
+                "was_correct": true,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 168,
+                "question": "This branch of mathematics studies points, lines, angles, surfaces, and solids.",
+                "user_answer": "geometry",
+                "correct_answer": "Geometry",
+                "was_correct": true,
+                "category": "Math"
+            },
+            {
+                "question_id": 74,
+                "question": "This painter created The Persistence of Memory.",
+                "user_answer": "dali",
+                "correct_answer": "Salvador Dal\u00ed",
+                "was_correct": true,
+                "category": "Art"
+            },
+            {
+                "question_id": 50,
+                "question": "Ceylon is the former name of this island nation.",
+                "user_answer": "sri lanka",
+                "correct_answer": "Sri Lanka",
+                "was_correct": true,
+                "category": "Geography"
+            },
+            {
+                "question_id": 129,
+                "question": "This empire had Suleiman the Magnificent as one of its major rulers.",
+                "user_answer": "ottoman empire",
+                "correct_answer": "Ottoman Empire",
+                "was_correct": true,
+                "category": "World History"
+            },
+            {
+                "question_id": 265,
+                "question": "The vice president serves as president of this chamber of Congress.",
+                "user_answer": "senate",
+                "correct_answer": "Senate",
+                "was_correct": true,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 236,
+                "question": "This term means a phrase whose meaning cannot be understood from the literal meanings of its words, like 'kick the bucket'.",
+                "user_answer": "idiom",
+                "correct_answer": "idiom",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 240,
+                "question": "This term means the history and origin of a word.",
+                "user_answer": "",
+                "correct_answer": "etymology",
+                "was_correct": false,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 36,
+                "question": "This Shakespeare play features Brutus and Cassius.",
+                "user_answer": "julius caesar",
+                "correct_answer": "Julius Caesar",
+                "was_correct": true,
+                "category": "Shakespeare"
+            },
+            {
+                "question_id": 134,
+                "question": "This composer wrote Carmina Burana.",
+                "user_answer": "bizet",
+                "correct_answer": "Carl Orff",
+                "was_correct": false,
+                "category": "Classical Music"
+            },
+            {
+                "question_id": 209,
+                "question": "A word that is spelled the same as another word but has a different meaning, like 'bat' the animal and 'bat' used in baseball, is this.",
+                "user_answer": "homonym",
+                "correct_answer": "homonym",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 21,
+                "question": "This biblical king was known for his wisdom.",
+                "user_answer": "solomon",
+                "correct_answer": "Solomon",
+                "was_correct": true,
+                "category": "Bible"
+            },
+            {
+                "question_id": 1,
+                "question": "The Roman equivalent of Zeus.",
+                "user_answer": "apollo",
+                "correct_answer": "Jupiter",
+                "was_correct": false,
+                "category": "Mythology"
+            },
+            {
+                "question_id": 5,
+                "question": "This river runs through Paris.",
+                "user_answer": "seine",
+                "correct_answer": "Seine",
+                "was_correct": true,
+                "category": "Geography"
+            },
+            {
+                "question_id": 271,
+                "question": "This Supreme Court case established the right to an attorney for indigent criminal defendants in state courts.",
+                "user_answer": "",
+                "correct_answer": "Gideon v. Wainwright",
+                "was_correct": false,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 258,
+                "question": "This amendment prohibited denying the right to vote on the basis of race.",
+                "user_answer": "19th amendment",
+                "correct_answer": "15th Amendment",
+                "was_correct": false,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 174,
+                "question": "This musical features the songs 'Tonight' and 'America' and is inspired by Romeo and Juliet.",
+                "user_answer": "fiddler on the roof",
+                "correct_answer": "West Side Story",
+                "was_correct": false,
+                "category": "Theatre"
+            },
+            {
+                "question_id": 160,
+                "question": "This playwright wrote Death of a Salesman and The Crucible.",
+                "user_answer": "miller",
+                "correct_answer": "Arthur Miller",
+                "was_correct": true,
+                "category": "Theatre"
+            },
+            {
+                "question_id": 123,
+                "question": "This Austrian statesman was a major figure at the Congress of Vienna.",
+                "user_answer": "metternich",
+                "correct_answer": "Metternich",
+                "was_correct": true,
+                "category": "World History"
+            },
+            {
+                "question_id": 121,
+                "question": "This French military leader was defeated at Waterloo in 1815.",
+                "user_answer": "napolean bonaparte",
+                "correct_answer": "Napoleon Bonaparte",
+                "was_correct": false,
+                "category": "World History"
+            },
+            {
+                "question_id": 253,
+                "question": "This president was the first to be born after the United States declared independence.",
+                "user_answer": "jackson",
+                "correct_answer": "Martin Van Buren",
+                "was_correct": false,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 161,
+                "question": "This number is the only even prime number.",
+                "user_answer": "2",
+                "correct_answer": "2",
+                "was_correct": true,
+                "category": "Math"
+            },
+            {
+                "question_id": 11,
+                "question": "This composer wrote Carmen.",
+                "user_answer": "bizet",
+                "correct_answer": "Bizet",
+                "was_correct": true,
+                "category": "Opera"
+            },
+            {
+                "question_id": 91,
+                "question": "This composer became deaf later in life and wrote nine symphonies.",
+                "user_answer": "beethoven",
+                "correct_answer": "Beethoven",
+                "was_correct": true,
+                "category": "Classical Music"
+            },
+            {
+                "question_id": 272,
+                "question": "This Supreme Court case led to the warning police give suspects about their rights before custodial interrogation.",
+                "user_answer": "miranda",
+                "correct_answer": "Miranda v. Arizona",
+                "was_correct": true,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 124,
+                "question": "This queen ruled England during the defeat of the Spanish Armada.",
+                "user_answer": "mary",
+                "correct_answer": "Elizabeth I",
+                "was_correct": false,
+                "category": "World History"
+            },
+            {
+                "question_id": 145,
+                "question": "This astronomer proposed a heliocentric model of the solar system.",
+                "user_answer": "copernicus",
+                "correct_answer": "Nicolaus Copernicus",
+                "was_correct": true,
+                "category": "Science"
+            },
+            {
+                "question_id": 166,
+                "question": "This Roman numeral represents 500.",
+                "user_answer": "D",
+                "correct_answer": "D",
+                "was_correct": true,
+                "category": "Math"
+            },
+            {
+                "question_id": 235,
+                "question": "This poetic term means the continuation of a sentence beyond the end of a line or stanza.",
+                "user_answer": "enjambment",
+                "correct_answer": "enjambment",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 65,
+                "question": "This biblical figure received the Ten Commandments.",
+                "user_answer": "moses",
+                "correct_answer": "Moses",
+                "was_correct": true,
+                "category": "Bible"
+            },
+            {
+                "question_id": 156,
+                "question": "This musical features the songs 'Memory' and 'Jellicle Songs for Jellicle Cats.'",
+                "user_answer": "cats",
+                "correct_answer": "Cats",
+                "was_correct": true,
+                "category": "Theatre"
+            },
+            {
+                "question_id": 56,
+                "question": "This president was in office during the Cuban Missile Crisis.",
+                "user_answer": "jfk",
+                "correct_answer": "John F. Kennedy",
+                "was_correct": true,
+                "category": "History"
+            },
+            {
+                "question_id": 7,
+                "question": "This biblical figure was swallowed by a great fish.",
+                "user_answer": "jonah",
+                "correct_answer": "Jonah",
+                "was_correct": true,
+                "category": "Bible"
+            },
+            {
+                "question_id": 114,
+                "question": "This author wrote Jane Eyre.",
+                "user_answer": "bronte",
+                "correct_answer": "Charlotte Bront\u00eb",
+                "was_correct": true,
+                "category": "Literature"
+            },
+            {
+                "question_id": 173,
+                "question": "This musical features the Phantom and Christine.",
+                "user_answer": "phantom of the opera",
+                "correct_answer": "The Phantom of the Opera",
+                "was_correct": true,
+                "category": "Theatre"
+            }
+        ]
+    },
+    {
+        "date": "2026-10-16T18:51:13",
+        "score": 8,
+        "total_questions": 10,
+        "accuracy": 80,
+        "display_mode": "Practice",
+        "difficulty_mode": "All",
+        "category_filter": "All",
+        "missed_question_ids": [
+            187,
+            51
+        ],
+        "results": [
+            {
+                "question_id": 87,
+                "question": "This opera by Puccini features the singer Floria Tosca.",
+                "user_answer": "tosca",
+                "correct_answer": "Tosca",
+                "was_correct": true,
+                "category": "Opera"
+            },
+            {
+                "question_id": 70,
+                "question": "This composer wrote The Blue Danube.",
+                "user_answer": "strauss",
+                "correct_answer": "Johann Strauss II",
+                "was_correct": true,
+                "category": "Classical Music"
+            },
+            {
+                "question_id": 187,
+                "question": "This Byzantine emperor is associated with a famous law code.",
+                "user_answer": "hammurabi",
+                "correct_answer": "Justinian",
+                "was_correct": false,
+                "category": "World History"
+            },
+            {
+                "question_id": 162,
+                "question": "This term describes a triangle with three equal sides.",
+                "user_answer": "equilateral",
+                "correct_answer": "Equilateral",
+                "was_correct": true,
+                "category": "Math"
+            },
+            {
+                "question_id": 236,
+                "question": "This term means a phrase whose meaning cannot be understood from the literal meanings of its words, like 'kick the bucket'.",
+                "user_answer": "idiom",
+                "correct_answer": "idiom",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 242,
+                "question": "This president issued the Emancipation Proclamation during the Civil War.",
+                "user_answer": "lincoln",
+                "correct_answer": "Abraham Lincoln",
+                "was_correct": true,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 63,
+                "question": "The chemical symbol Au stands for this element.",
+                "user_answer": "gold",
+                "correct_answer": "Gold",
+                "was_correct": true,
+                "category": "Science"
+            },
+            {
+                "question_id": 51,
+                "question": "This amendment ended Prohibition.",
+                "user_answer": "22nd amendment",
+                "correct_answer": "21st Amendment",
+                "was_correct": false,
+                "category": "Civics"
+            },
+            {
+                "question_id": 83,
+                "question": "This biblical woman is the mother of Jesus.",
+                "user_answer": "mary",
+                "correct_answer": "Mary",
+                "was_correct": true,
+                "category": "Bible"
+            },
+            {
+                "question_id": 194,
+                "question": "This Mozart opera features Papageno and the Queen of the Night.",
+                "user_answer": "magic flute",
+                "correct_answer": "The Magic Flute",
+                "was_correct": true,
+                "category": "Opera"
+            }
+        ]
+    },
+    {
+        "date": "2026-10-16T18:54:04",
+        "score": 13,
+        "total_questions": 20,
+        "accuracy": 65,
+        "display_mode": "Daily 20",
+        "difficulty_mode": "All",
+        "category_filter": "Daily 20",
+        "missed_question_ids": [
+            108,
+            151,
+            200,
+            257,
+            239,
+            1,
+            192
+        ],
+        "results": [
+            {
+                "question_id": 108,
+                "question": "This Shakespeare comedy features twins Viola and Sebastian.",
+                "user_answer": "",
+                "correct_answer": "Twelfth Night",
+                "was_correct": false,
+                "category": "Shakespeare"
+            },
+            {
+                "question_id": 32,
+                "question": "This Greek messenger god is the Roman Mercury.",
+                "user_answer": "hermes",
+                "correct_answer": "Hermes",
+                "was_correct": true,
+                "category": "Mythology"
+            },
+            {
+                "question_id": 151,
+                "question": "This author wrote The Stranger.",
+                "user_answer": "kafka",
+                "correct_answer": "Albert Camus",
+                "was_correct": false,
+                "category": "Literature"
+            },
+            {
+                "question_id": 240,
+                "question": "This term means the history and origin of a word.",
+                "user_answer": "etymology",
+                "correct_answer": "etymology",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 181,
+                "question": "This wall began falling in 1989, symbolizing the end of the Cold War.",
+                "user_answer": "berlin wall",
+                "correct_answer": "Berlin Wall",
+                "was_correct": true,
+                "category": "World History"
+            },
+            {
+                "question_id": 2,
+                "question": "This composer wrote La Boh\u00e8me.",
+                "user_answer": "puccini",
+                "correct_answer": "Puccini",
+                "was_correct": true,
+                "category": "Opera"
+            },
+            {
+                "question_id": 52,
+                "question": "This amendment established presidential term limits.",
+                "user_answer": "22nd amendment",
+                "correct_answer": "22nd Amendment",
+                "was_correct": true,
+                "category": "Civics"
+            },
+            {
+                "question_id": 200,
+                "question": "This Supreme Court case protected a student's right to wear a black armband in school.",
+                "user_answer": "wilson v. des moines",
+                "correct_answer": "Tinker v. Des Moines",
+                "was_correct": false,
+                "category": "Civics"
+            },
+            {
+                "question_id": 257,
+                "question": "This amendment guarantees equal protection under the law and defines U.S. citizenship.",
+                "user_answer": "",
+                "correct_answer": "14th Amendment",
+                "was_correct": false,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 170,
+                "question": "This sequence begins 0, 1, 1, 2, 3, 5, 8.",
+                "user_answer": "fibonacci",
+                "correct_answer": "Fibonacci sequence",
+                "was_correct": true,
+                "category": "Math"
+            },
+            {
+                "question_id": 205,
+                "question": "Meaning 'bad' or 'evil', this Latin root appears in malicious, malady, and malfunction.",
+                "user_answer": "mal",
+                "correct_answer": "mal",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 239,
+                "question": "This term means a word that comes from the name of a person, like boycott or sandwich.",
+                "user_answer": "",
+                "correct_answer": "eponym",
+                "was_correct": false,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 1,
+                "question": "The Roman equivalent of Zeus.",
+                "user_answer": "apollo",
+                "correct_answer": "Jupiter",
+                "was_correct": false,
+                "category": "Mythology"
+            },
+            {
+                "question_id": 68,
+                "question": "This apostle betrayed Jesus for thirty pieces of silver.",
+                "user_answer": "judas",
+                "correct_answer": "Judas Iscariot",
+                "was_correct": true,
+                "category": "Bible"
+            },
+            {
+                "question_id": 214,
+                "question": "A word or phrase that reads the same forward and backward, like 'level' or 'madam', is this.",
+                "user_answer": "palindrome",
+                "correct_answer": "palindrome",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 224,
+                "question": "This term means a mild or indirect word substituted for one considered too harsh, as 'passed away' for 'died'.",
+                "user_answer": "euphemism",
+                "correct_answer": "euphemism",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 35,
+                "question": "This Shakespeare play features the characters Puck, Oberon, and Titania.",
+                "user_answer": "a midsummer night's dream",
+                "correct_answer": "A Midsummer Night's Dream",
+                "was_correct": true,
+                "category": "Shakespeare"
+            },
+            {
+                "question_id": 218,
+                "question": "This mark made of three dots can indicate omitted words or a trailing-off thought.",
+                "user_answer": "ellipsis",
+                "correct_answer": "ellipsis",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 192,
+                "question": "This Verdi opera features the aria 'La donna \u00e8 mobile.'",
+                "user_answer": "aida",
+                "correct_answer": "Rigoletto",
+                "was_correct": false,
+                "category": "Opera"
+            },
+            {
+                "question_id": 178,
+                "question": "This playwright wrote The Importance of Being Earnest.",
+                "user_answer": "wilde",
+                "correct_answer": "Oscar Wilde",
+                "was_correct": true,
+                "category": "Theatre"
+            }
+        ]
+    },
+    {
+        "date": "2026-10-16T18:56:12",
+        "score": 8,
+        "total_questions": 10,
+        "accuracy": 80,
+        "display_mode": "Practice",
+        "difficulty_mode": "All",
+        "category_filter": "All",
+        "missed_question_ids": [
+            135,
+            34
+        ],
+        "results": [
+            {
+                "question_id": 135,
+                "question": "This composer wrote The Rite of Spring.",
+                "user_answer": "beethoven",
+                "correct_answer": "Igor Stravinsky",
+                "was_correct": false,
+                "category": "Classical Music"
+            },
+            {
+                "question_id": 164,
+                "question": "This Greek letter is commonly used to represent the ratio of a circle's circumference to its diameter.",
+                "user_answer": "pi",
+                "correct_answer": "Pi",
+                "was_correct": true,
+                "category": "Math"
+            },
+            {
+                "question_id": 229,
+                "question": "This figure of speech uses deliberate exaggeration for effect, as in 'I've told you a million times'.",
+                "user_answer": "hyperbole",
+                "correct_answer": "hyperbole",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 34,
+                "question": "This Titan is often shown holding up the heavens.",
+                "user_answer": "apollo",
+                "correct_answer": "Atlas",
+                "was_correct": false,
+                "category": "Mythology"
+            },
+            {
+                "question_id": 43,
+                "question": "This author wrote The Old Man and the Sea.",
+                "user_answer": "hemingway",
+                "correct_answer": "Ernest Hemingway",
+                "was_correct": true,
+                "category": "Literature"
+            },
+            {
+                "question_id": 114,
+                "question": "This author wrote Jane Eyre.",
+                "user_answer": "bronte",
+                "correct_answer": "Charlotte Bront\u00eb",
+                "was_correct": true,
+                "category": "Literature"
+            },
+            {
+                "question_id": 21,
+                "question": "This biblical king was known for his wisdom.",
+                "user_answer": "solomon",
+                "correct_answer": "Solomon",
+                "was_correct": true,
+                "category": "Bible"
+            },
+            {
+                "question_id": 67,
+                "question": "This biblical figure was known for patience after suffering great losses.",
+                "user_answer": "job",
+                "correct_answer": "Job",
+                "was_correct": true,
+                "category": "Bible"
+            },
+            {
+                "question_id": 11,
+                "question": "This composer wrote Carmen.",
+                "user_answer": "bizet",
+                "correct_answer": "Bizet",
+                "was_correct": true,
+                "category": "Opera"
+            },
+            {
+                "question_id": 209,
+                "question": "A word that is spelled the same as another word but has a different meaning, like 'bat' the animal and 'bat' used in baseball, is this.",
+                "user_answer": "homonym",
+                "correct_answer": "homonym",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            }
+        ]
+    },
+    {
+        "date": "2026-10-17T02:17:36",
+        "score": 10,
+        "total_questions": 10,
+        "accuracy": 100,
+        "display_mode": "Practice",
+        "difficulty_mode": "All",
+        "category_filter": "All",
+        "missed_question_ids": [],
+        "results": [
+            {
+                "question_id": 146,
+                "question": "This scientist's name is attached to the periodic table.",
+                "user_answer": "mendeleev",
+                "correct_answer": "Dmitri Mendeleev",
+                "was_correct": true,
+                "category": "Science"
+            },
+            {
+                "question_id": 83,
+                "question": "This biblical woman is the mother of Jesus.",
+                "user_answer": "mary",
+                "correct_answer": "Mary",
+                "was_correct": true,
+                "category": "Bible"
+            },
+            {
+                "question_id": 5,
+                "question": "This river runs through Paris.",
+                "user_answer": "seine",
+                "correct_answer": "Seine",
+                "was_correct": true,
+                "category": "Geography"
+            },
+            {
+                "question_id": 189,
+                "question": "This Egyptian queen was allied with Julius Caesar and Mark Antony.",
+                "user_answer": "cleopatra",
+                "correct_answer": "Cleopatra",
+                "was_correct": true,
+                "category": "World History"
+            },
+            {
+                "question_id": 15,
+                "question": "This amendment abolished slavery in the United States.",
+                "user_answer": "13th amendment",
+                "correct_answer": "13th Amendment",
+                "was_correct": true,
+                "category": "Civics"
+            },
+            {
+                "question_id": 181,
+                "question": "This wall began falling in 1989, symbolizing the end of the Cold War.",
+                "user_answer": "berlin wall",
+                "correct_answer": "Berlin Wall",
+                "was_correct": true,
+                "category": "World History"
+            },
+            {
+                "question_id": 201,
+                "question": "This word describes a word that imitates the sound it names, like 'buzz' or 'clang'.",
+                "user_answer": "onomatopoeia",
+                "correct_answer": "onomatopoeia",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 116,
+                "question": "This river runs through Baghdad.",
+                "user_answer": "tigris",
+                "correct_answer": "Tigris",
+                "was_correct": true,
+                "category": "Geography"
+            },
+            {
+                "question_id": 162,
+                "question": "This term describes a triangle with three equal sides.",
+                "user_answer": "equilateral",
+                "correct_answer": "Equilateral",
+                "was_correct": true,
+                "category": "Math"
+            },
+            {
+                "question_id": 100,
+                "question": "This philosopher said, 'I think, therefore I am.'",
+                "user_answer": "descartes",
+                "correct_answer": "Ren\u00e9 Descartes",
+                "was_correct": true,
+                "category": "Philosophy"
+            }
+        ]
+    },
+    {
+        "date": "2026-10-30T09:01:05",
+        "score": 5,
+        "total_questions": 10,
+        "accuracy": 50,
+        "display_mode": "Practice",
+        "difficulty_mode": "All",
+        "category_filter": "All",
+        "missed_question_ids": [
+            275,
+            258,
+            100,
+            251,
+            276
+        ],
+        "results": [
+            {
+                "question_id": 241,
+                "question": "He was the first president of the United States.",
+                "user_answer": "washington",
+                "correct_answer": "George Washington",
+                "was_correct": true,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 275,
+                "question": "This First Lady later served as a U.S. senator and secretary of state.",
+                "user_answer": "clinton",
+                "correct_answer": "Hillary Clinton",
+                "was_correct": false,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 258,
+                "question": "This amendment prohibited denying the right to vote on the basis of race.",
+                "user_answer": "13th amendment",
+                "correct_answer": "15th Amendment",
+                "was_correct": false,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 100,
+                "question": "This philosopher said, 'I think, therefore I am.'",
+                "user_answer": "",
+                "correct_answer": "Ren\u00e9 Descartes",
+                "was_correct": false,
+                "category": "Philosophy"
+            },
+            {
+                "question_id": 251,
+                "question": "This president was previously governor of Georgia and later won the Nobel Peace Prize.",
+                "user_answer": "",
+                "correct_answer": "Jimmy Carter",
+                "was_correct": false,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 39,
+                "question": "This author wrote 1984 and Animal Farm.",
+                "user_answer": "orwell",
+                "correct_answer": "George Orwell",
+                "was_correct": true,
+                "category": "Literature"
+            },
+            {
+                "question_id": 277,
+                "question": "A presidential veto can be overridden by this fraction of both houses of Congress.",
+                "user_answer": "two thirds",
+                "correct_answer": "two-thirds",
+                "was_correct": true,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 69,
+                "question": "This composer wrote Messiah.",
+                "user_answer": "handel",
+                "correct_answer": "Handel",
+                "was_correct": true,
+                "category": "Classical Music"
+            },
+            {
+                "question_id": 276,
+                "question": "This body formally elects the president and vice president of the United States.",
+                "user_answer": "electoral vote",
+                "correct_answer": "Electoral College",
+                "was_correct": false,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 110,
+                "question": "This Shakespeare tragedy features Desdemona.",
+                "user_answer": "othello",
+                "correct_answer": "Othello",
+                "was_correct": true,
+                "category": "Shakespeare"
+            }
+        ]
+    },
+    {
+        "date": "2026-11-05T09:09:18",
+        "score": 14,
+        "total_questions": 20,
+        "accuracy": 70,
+        "display_mode": "Daily 20",
+        "difficulty_mode": "All",
+        "category_filter": "Daily 20",
+        "missed_question_ids": [
+            268,
+            1,
+            108,
+            169,
+            88,
+            212
+        ],
+        "results": [
+            {
+                "question_id": 149,
+                "question": "This author wrote Paradise Lost.",
+                "user_answer": "milton",
+                "correct_answer": "John Milton",
+                "was_correct": true,
+                "category": "Literature"
+            },
+            {
+                "question_id": 19,
+                "question": "This author wrote Moby-Dick.",
+                "user_answer": "melville",
+                "correct_answer": "Herman Melville",
+                "was_correct": true,
+                "category": "Literature"
+            },
+            {
+                "question_id": 268,
+                "question": "This Cabinet official is traditionally fourth in the presidential line of succession, after the vice president and congressional leaders.",
+                "user_answer": "secretary of the state",
+                "correct_answer": "Secretary of State",
+                "was_correct": false,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 154,
+                "question": "This author wrote Anna Karenina and War and Peace.",
+                "user_answer": "tolstoy",
+                "correct_answer": "Leo Tolstoy",
+                "was_correct": true,
+                "category": "Literature"
+            },
+            {
+                "question_id": 260,
+                "question": "This amendment limits a president to two elected terms.",
+                "user_answer": "22nd amendment",
+                "correct_answer": "22nd Amendment",
+                "was_correct": true,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 75,
+                "question": "This artist painted the Mona Lisa.",
+                "user_answer": "da vinci",
+                "correct_answer": "Leonardo da Vinci",
+                "was_correct": true,
+                "category": "Art"
+            },
+            {
+                "question_id": 140,
+                "question": "This scientist developed an oral polio vaccine.",
+                "user_answer": "sabin",
+                "correct_answer": "Albert Sabin",
+                "was_correct": true,
+                "category": "Science"
+            },
+            {
+                "question_id": 256,
+                "question": "This amendment abolished slavery in the United States.",
+                "user_answer": "13th amendment",
+                "correct_answer": "13th Amendment",
+                "was_correct": true,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 40,
+                "question": "This author wrote Brave New World.",
+                "user_answer": "huxley",
+                "correct_answer": "Aldous Huxley",
+                "was_correct": true,
+                "category": "Literature"
+            },
+            {
+                "question_id": 1,
+                "question": "The Roman equivalent of Zeus.",
+                "user_answer": "mars",
+                "correct_answer": "Jupiter",
+                "was_correct": false,
+                "category": "Mythology"
+            },
+            {
+                "question_id": 66,
+                "question": "This biblical figure survived a den of lions.",
+                "user_answer": "daniel",
+                "correct_answer": "Daniel",
+                "was_correct": true,
+                "category": "Bible"
+            },
+            {
+                "question_id": 224,
+                "question": "This term means a mild or indirect word substituted for one considered too harsh, as 'passed away' for 'died'.",
+                "user_answer": "euphemism",
+                "correct_answer": "euphemism",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 108,
+                "question": "This Shakespeare comedy features twins Viola and Sebastian.",
+                "user_answer": "",
+                "correct_answer": "Twelfth Night",
+                "was_correct": false,
+                "category": "Shakespeare"
+            },
+            {
+                "question_id": 176,
+                "question": "This musical features the songs 'The Impossible Dream' and 'Dulcinea.'",
+                "user_answer": "man of la mancha",
+                "correct_answer": "Man of La Mancha",
+                "was_correct": true,
+                "category": "Theatre"
+            },
+            {
+                "question_id": 185,
+                "question": "This revolution began in 1789 with events including the storming of the Bastille.",
+                "user_answer": "french revolution",
+                "correct_answer": "French Revolution",
+                "was_correct": true,
+                "category": "World History"
+            },
+            {
+                "question_id": 169,
+                "question": "This mathematician is associated with a theorem about right triangles.",
+                "user_answer": "pythagorus",
+                "correct_answer": "Pythagoras",
+                "was_correct": false,
+                "category": "Math"
+            },
+            {
+                "question_id": 88,
+                "question": "This opera by Verdi features the Hebrew slaves' chorus.",
+                "user_answer": "aida",
+                "correct_answer": "Nabucco",
+                "was_correct": false,
+                "category": "Opera"
+            },
+            {
+                "question_id": 212,
+                "question": "A word with the same or nearly the same meaning as another word is called this.",
+                "user_answer": "homonym",
+                "correct_answer": "synonym",
+                "was_correct": false,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 161,
+                "question": "This number is the only even prime number.",
+                "user_answer": "2",
+                "correct_answer": "2",
+                "was_correct": true,
+                "category": "Math"
+            },
+            {
+                "question_id": 165,
+                "question": "This Roman numeral represents 50.",
+                "user_answer": "l",
+                "correct_answer": "L",
+                "was_correct": true,
+                "category": "Math"
+            }
+        ]
+    },
+    {
+        "date": "2026-11-07T12:36:26",
+        "score": 8,
+        "total_questions": 10,
+        "accuracy": 80,
+        "display_mode": "Practice",
+        "difficulty_mode": "All",
+        "category_filter": "All",
+        "missed_question_ids": [
+            107,
+            92
+        ],
+        "results": [
+            {
+                "question_id": 126,
+                "question": "This document was signed by King John in 1215.",
+                "user_answer": "magna carta",
+                "correct_answer": "Magna Carta",
+                "was_correct": true,
+                "category": "World History"
+            },
+            {
+                "question_id": 163,
+                "question": "This term describes a triangle with two equal sides.",
+                "user_answer": "isosceles",
+                "correct_answer": "Isosceles",
+                "was_correct": true,
+                "category": "Math"
+            },
+            {
+                "question_id": 20,
+                "question": "This author wrote The Scarlet Letter.",
+                "user_answer": "hawthorne",
+                "correct_answer": "Nathaniel Hawthorne",
+                "was_correct": true,
+                "category": "Literature"
+            },
+            {
+                "question_id": 107,
+                "question": "This Shakespeare play features Prospero, Miranda, and Caliban.",
+                "user_answer": "",
+                "correct_answer": "The Tempest",
+                "was_correct": false,
+                "category": "Shakespeare"
+            },
+            {
+                "question_id": 95,
+                "question": "This composer wrote Bol\u00e9ro.",
+                "user_answer": "ravel",
+                "correct_answer": "Ravel",
+                "was_correct": true,
+                "category": "Classical Music"
+            },
+            {
+                "question_id": 222,
+                "question": "A word placed before a noun or pronoun to show a relationship, as in 'on the table' or 'under the bridge', is this part of speech.",
+                "user_answer": "preposition",
+                "correct_answer": "preposition",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 92,
+                "question": "This composer wrote the Brandenburg Concertos.",
+                "user_answer": "",
+                "correct_answer": "Bach",
+                "was_correct": false,
+                "category": "Classical Music"
+            },
+            {
+                "question_id": 234,
+                "question": "This 14-line poetic form is associated with Shakespeare, Petrarch, and strict rhyme schemes.",
+                "user_answer": "sonnet",
+                "correct_answer": "sonnet",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 64,
+                "question": "The chemical symbol Fe stands for this element.",
+                "user_answer": "iron",
+                "correct_answer": "Iron",
+                "was_correct": true,
+                "category": "Science"
+            },
+            {
+                "question_id": 40,
+                "question": "This author wrote Brave New World.",
+                "user_answer": "huxley",
+                "correct_answer": "Aldous Huxley",
+                "was_correct": true,
+                "category": "Literature"
+            }
+        ]
+    },
+    {
+        "date": "2026-11-07T12:38:43",
+        "score": 8,
+        "total_questions": 10,
+        "accuracy": 80,
+        "display_mode": "Practice",
+        "difficulty_mode": "All",
+        "category_filter": "All",
+        "missed_question_ids": [
+            77,
+            134
+        ],
+        "results": [
+            {
+                "question_id": 195,
+                "question": "This Wagner opera cycle includes Das Rheingold and G\u00f6tterd\u00e4mmerung.",
+                "user_answer": "the ring cycle",
+                "correct_answer": "The Ring Cycle",
+                "was_correct": true,
+                "category": "Opera"
+            },
+            {
+                "question_id": 266,
+                "question": "The Speaker presides over this chamber of Congress.",
+                "user_answer": "house of representatives",
+                "correct_answer": "House of Representatives",
+                "was_correct": true,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 39,
+                "question": "This author wrote 1984 and Animal Farm.",
+                "user_answer": "orwell",
+                "correct_answer": "George Orwell",
+                "was_correct": true,
+                "category": "Literature"
+            },
+            {
+                "question_id": 77,
+                "question": "This philosopher wrote Leviathan.",
+                "user_answer": "rousseau",
+                "correct_answer": "Thomas Hobbes",
+                "was_correct": false,
+                "category": "Philosophy"
+            },
+            {
+                "question_id": 230,
+                "question": "This term describes repeated initial consonant sounds, as in 'Peter Piper picked a peck'.",
+                "user_answer": "alliteration",
+                "correct_answer": "alliteration",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 186,
+                "question": "This queen of France was executed during the French Revolution.",
+                "user_answer": "marie antoinette",
+                "correct_answer": "Marie Antoinette",
+                "was_correct": true,
+                "category": "World History"
+            },
+            {
+                "question_id": 205,
+                "question": "Meaning 'bad' or 'evil', this Latin root appears in malicious, malady, and malfunction.",
+                "user_answer": "mal",
+                "correct_answer": "mal",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 22,
+                "question": "This biblical figure interpreted dreams in Egypt and owned a coat of many colors.",
+                "user_answer": "joseph",
+                "correct_answer": "Joseph",
+                "was_correct": true,
+                "category": "Bible"
+            },
+            {
+                "question_id": 18,
+                "question": "This mountain range separates France and Spain.",
+                "user_answer": "pyrenees",
+                "correct_answer": "Pyrenees",
+                "was_correct": true,
+                "category": "Geography"
+            },
+            {
+                "question_id": 134,
+                "question": "This composer wrote Carmina Burana.",
+                "user_answer": "bizet",
+                "correct_answer": "Carl Orff",
+                "was_correct": false,
+                "category": "Classical Music"
+            }
+        ]
+    },
+    {
+        "date": "2026-11-11T16:07:38",
+        "score": 6,
+        "total_questions": 10,
+        "accuracy": 60,
+        "display_mode": "Practice",
+        "difficulty_mode": "All",
+        "category_filter": "All",
+        "missed_question_ids": [
+            177,
+            206,
+            121,
+            150
+        ],
+        "results": [
+            {
+                "question_id": 177,
+                "question": "This playwright wrote Waiting for Godot.",
+                "user_answer": "",
+                "correct_answer": "Samuel Beckett",
+                "was_correct": false,
+                "category": "Theatre"
+            },
+            {
+                "question_id": 139,
+                "question": "This scientist developed the polio vaccine commonly associated with an injectable shot.",
+                "user_answer": "salk",
+                "correct_answer": "Jonas Salk",
+                "was_correct": true,
+                "category": "Science"
+            },
+            {
+                "question_id": 19,
+                "question": "This author wrote Moby-Dick.",
+                "user_answer": "melville",
+                "correct_answer": "Herman Melville",
+                "was_correct": true,
+                "category": "Literature"
+            },
+            {
+                "question_id": 64,
+                "question": "The chemical symbol Fe stands for this element.",
+                "user_answer": "iron",
+                "correct_answer": "Iron",
+                "was_correct": true,
+                "category": "Science"
+            },
+            {
+                "question_id": 206,
+                "question": "Meaning 'all', this root appears in omnipotent, omnivore, and omnibus.",
+                "user_answer": "omi",
+                "correct_answer": "omni",
+                "was_correct": false,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 272,
+                "question": "This Supreme Court case led to the warning police give suspects about their rights before custodial interrogation.",
+                "user_answer": "miranda",
+                "correct_answer": "Miranda v. Arizona",
+                "was_correct": true,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 121,
+                "question": "This French military leader was defeated at Waterloo in 1815.",
+                "user_answer": "bonaparte",
+                "correct_answer": "Napoleon Bonaparte",
+                "was_correct": false,
+                "category": "World History"
+            },
+            {
+                "question_id": 247,
+                "question": "This president is associated with the Square Deal and the conservation movement.",
+                "user_answer": "roosevelt",
+                "correct_answer": "Theodore Roosevelt",
+                "was_correct": true,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 146,
+                "question": "This scientist's name is attached to the periodic table.",
+                "user_answer": "mendeleev",
+                "correct_answer": "Dmitri Mendeleev",
+                "was_correct": true,
+                "category": "Science"
+            },
+            {
+                "question_id": 150,
+                "question": "This author wrote The Canterbury Tales.",
+                "user_answer": "hawthorne",
+                "correct_answer": "Geoffrey Chaucer",
+                "was_correct": false,
+                "category": "Literature"
+            }
+        ]
+    },
+    {
+        "date": "2026-11-11T16:29:14",
+        "score": 13,
+        "total_questions": 20,
+        "accuracy": 65,
+        "display_mode": "Daily 20",
+        "difficulty_mode": "All",
+        "category_filter": "Daily 20",
+        "missed_question_ids": [
+            138,
+            31,
+            133,
+            92,
+            99,
+            219,
+            187
+        ],
+        "results": [
+            {
+                "question_id": 214,
+                "question": "A word or phrase that reads the same forward and backward, like 'level' or 'madam', is this.",
+                "user_answer": "palindrome",
+                "correct_answer": "palindrome",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 138,
+                "question": "This composer wrote The Moldau.",
+                "user_answer": "",
+                "correct_answer": "Bedrich Smetana",
+                "was_correct": false,
+                "category": "Classical Music"
+            },
+            {
+                "question_id": 31,
+                "question": "This Greek goddess of wisdom is the Roman Minerva.",
+                "user_answer": "venus",
+                "correct_answer": "Athena",
+                "was_correct": false,
+                "category": "Mythology"
+            },
+            {
+                "question_id": 113,
+                "question": "This author wrote The Great Gatsby.",
+                "user_answer": "fitzgerald",
+                "correct_answer": "F. Scott Fitzgerald",
+                "was_correct": true,
+                "category": "Literature"
+            },
+            {
+                "question_id": 133,
+                "question": "This composer wrote The Planets.",
+                "user_answer": "mozart",
+                "correct_answer": "Gustav Holst",
+                "was_correct": false,
+                "category": "Classical Music"
+            },
+            {
+                "question_id": 185,
+                "question": "This revolution began in 1789 with events including the storming of the Bastille.",
+                "user_answer": "french revolution",
+                "correct_answer": "French Revolution",
+                "was_correct": true,
+                "category": "World History"
+            },
+            {
+                "question_id": 84,
+                "question": "This biblical figure was the first man.",
+                "user_answer": "adam",
+                "correct_answer": "Adam",
+                "was_correct": true,
+                "category": "Bible"
+            },
+            {
+                "question_id": 104,
+                "question": "This American artist painted Campbell's Soup Cans.",
+                "user_answer": "warhol",
+                "correct_answer": "Andy Warhol",
+                "was_correct": true,
+                "category": "Art"
+            },
+            {
+                "question_id": 177,
+                "question": "This playwright wrote Waiting for Godot.",
+                "user_answer": "beckett",
+                "correct_answer": "Samuel Beckett",
+                "was_correct": true,
+                "category": "Theatre"
+            },
+            {
+                "question_id": 6,
+                "question": "This author created Elizabeth Bennet and Mr. Darcy.",
+                "user_answer": "austen",
+                "correct_answer": "Jane Austen",
+                "was_correct": true,
+                "category": "Literature"
+            },
+            {
+                "question_id": 92,
+                "question": "This composer wrote the Brandenburg Concertos.",
+                "user_answer": "handel",
+                "correct_answer": "Bach",
+                "was_correct": false,
+                "category": "Classical Music"
+            },
+            {
+                "question_id": 202,
+                "question": "This common prefix meaning 'against' or 'opposite' appears in words like antifreeze and antibody.",
+                "user_answer": "anti",
+                "correct_answer": "anti",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 99,
+                "question": "This philosopher wrote Beyond Good and Evil and Thus Spoke Zarathustra.",
+                "user_answer": "",
+                "correct_answer": "Friedrich Nietzsche",
+                "was_correct": false,
+                "category": "Philosophy"
+            },
+            {
+                "question_id": 219,
+                "question": "In grammar, a noun that names a person, place, thing, or idea is this part of speech.",
+                "user_answer": "proper noun",
+                "correct_answer": "noun",
+                "was_correct": false,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 192,
+                "question": "This Verdi opera features the aria 'La donna \u00e8 mobile.'",
+                "user_answer": "rigoletto",
+                "correct_answer": "Rigoletto",
+                "was_correct": true,
+                "category": "Opera"
+            },
+            {
+                "question_id": 222,
+                "question": "A word placed before a noun or pronoun to show a relationship, as in 'on the table' or 'under the bridge', is this part of speech.",
+                "user_answer": "preposition",
+                "correct_answer": "preposition",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 42,
+                "question": "This author wrote The Grapes of Wrath.",
+                "user_answer": "steinbeck",
+                "correct_answer": "John Steinbeck",
+                "was_correct": true,
+                "category": "Literature"
+            },
+            {
+                "question_id": 187,
+                "question": "This Byzantine emperor is associated with a famous law code.",
+                "user_answer": "hammurabi",
+                "correct_answer": "Justinian",
+                "was_correct": false,
+                "category": "World History"
+            },
+            {
+                "question_id": 167,
+                "question": "This branch of mathematics deals with sine, cosine, and tangent.",
+                "user_answer": "trigonometry",
+                "correct_answer": "Trigonometry",
+                "was_correct": true,
+                "category": "Math"
+            },
+            {
+                "question_id": 70,
+                "question": "This composer wrote The Blue Danube.",
+                "user_answer": "strauss",
+                "correct_answer": "Johann Strauss II",
+                "was_correct": true,
+                "category": "Classical Music"
+            }
+        ]
+    },
+    {
+        "date": "2026-11-11T18:41:19",
+        "score": 16,
+        "total_questions": 20,
+        "accuracy": 80,
+        "display_mode": "Daily 20",
+        "difficulty_mode": "All",
+        "category_filter": "Daily 20",
+        "missed_question_ids": [
+            194,
+            200,
+            133,
+            197
+        ],
+        "results": [
+            {
+                "question_id": 129,
+                "question": "This empire had Suleiman the Magnificent as one of its major rulers.",
+                "user_answer": "ottoman",
+                "correct_answer": "Ottoman Empire",
+                "was_correct": true,
+                "category": "World History"
+            },
+            {
+                "question_id": 153,
+                "question": "This author wrote The Odyssey and The Iliad.",
+                "user_answer": "homer",
+                "correct_answer": "Homer",
+                "was_correct": true,
+                "category": "Literature"
+            },
+            {
+                "question_id": 194,
+                "question": "This Mozart opera features Papageno and the Queen of the Night.",
+                "user_answer": "",
+                "correct_answer": "The Magic Flute",
+                "was_correct": false,
+                "category": "Opera"
+            },
+            {
+                "question_id": 46,
+                "question": "This river runs through Vienna, Budapest, and Bratislava.",
+                "user_answer": "danube",
+                "correct_answer": "Danube",
+                "was_correct": true,
+                "category": "Geography"
+            },
+            {
+                "question_id": 7,
+                "question": "This biblical figure was swallowed by a great fish.",
+                "user_answer": "jonah",
+                "correct_answer": "Jonah",
+                "was_correct": true,
+                "category": "Bible"
+            },
+            {
+                "question_id": 146,
+                "question": "This scientist's name is attached to the periodic table.",
+                "user_answer": "mendeleev",
+                "correct_answer": "Dmitri Mendeleev",
+                "was_correct": true,
+                "category": "Science"
+            },
+            {
+                "question_id": 208,
+                "question": "Meaning 'one' or 'single', this prefix appears in monologue, monopoly, and monotheism.",
+                "user_answer": "mono",
+                "correct_answer": "mono",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 224,
+                "question": "This term means a mild or indirect word substituted for one considered too harsh, as 'passed away' for 'died'.",
+                "user_answer": "euphemism",
+                "correct_answer": "euphemism",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 230,
+                "question": "This term describes repeated initial consonant sounds, as in 'Peter Piper picked a peck'.",
+                "user_answer": "alliteration",
+                "correct_answer": "alliteration",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 114,
+                "question": "This author wrote Jane Eyre.",
+                "user_answer": "bronte",
+                "correct_answer": "Charlotte Bront\u00eb",
+                "was_correct": true,
+                "category": "Literature"
+            },
+            {
+                "question_id": 214,
+                "question": "A word or phrase that reads the same forward and backward, like 'level' or 'madam', is this.",
+                "user_answer": "palindrome",
+                "correct_answer": "palindrome",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 276,
+                "question": "This body formally elects the president and vice president of the United States.",
+                "user_answer": "electoral college",
+                "correct_answer": "Electoral College",
+                "was_correct": true,
+                "category": "Presidents & Government"
+            },
+            {
+                "question_id": 211,
+                "question": "A word with the opposite meaning of another word is called this.",
+                "user_answer": "antonym",
+                "correct_answer": "antonym",
+                "was_correct": true,
+                "category": "Language / Vocabulary"
+            },
+            {
+                "question_id": 200,
+                "question": "This Supreme Court case protected a student's right to wear a black armband in school.",
+                "user_answer": "",
+                "correct_answer": "Tinker v. Des Moines",
+                "was_correct": false,
+                "category": "Civics"
+            },
+            {
+                "question_id": 85,
+                "question": "This biblical figure was the first woman.",
+                "user_answer": "eve",
+                "correct_answer": "Eve",
+                "was_correct": true,
+                "category": "Bible"
+            },
+            {
+                "question_id": 96,
+                "question": "This philosopher was sentenced to death in Athens and drank hemlock.",
+                "user_answer": "socrates",
+                "correct_answer": "Socrates",
+                "was_correct": true,
+                "category": "Philosophy"
+            },
+            {
+                "question_id": 133,
+                "question": "This composer wrote The Planets.",
+                "user_answer": "wagner",
+                "correct_answer": "Gustav Holst",
+                "was_correct": false,
+                "category": "Classical Music"
+            },
+            {
+                "question_id": 197,
+                "question": "This Greek hero killed Medusa.",
+                "user_answer": "hercules",
+                "correct_answer": "Perseus",
+                "was_correct": false,
+                "category": "Mythology"
+            },
+            {
+                "question_id": 183,
+                "question": "This Indian leader used nonviolent resistance against British rule.",
+                "user_answer": "gandhi",
+                "correct_answer": "Mahatma Gandhi",
+                "was_correct": true,
+                "category": "World History"
+            },
+            {
+                "question_id": 125,
+                "question": "This 1066 battle marked the Norman conquest of England.",
+                "user_answer": "battle of hastings",
+                "correct_answer": "Battle of Hastings",
+                "was_correct": true,
+                "category": "World History"
+            }
+        ]
     }
 ]
